@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: ca\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-16 15:10-0800\n"
-"PO-Revision-Date: 2025-02-25 04:52+0000\n"
+"PO-Revision-Date: 2025-02-25 19:38+0000\n"
 "Last-Translator: Arnau Llovet Vidal <arnaullv@gmail.com>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/gramps-project/"
 "addons/ca/>\n"
@@ -563,43 +563,43 @@ msgstr "Falta el python3 lxml"
 
 #: lxml/lxmlGramplet.py:89
 msgid "Please, try to install \"python3 lxml\" package."
-msgstr ""
+msgstr "Si us plau, prova d'instal·lar el paquet \"python3 lxml\"."
 
 #: lxml/lxmlGramplet.py:164
 msgid "No file loaded..."
-msgstr ""
+msgstr "No hi ha cap fitxer carregat..."
 
 #: lxml/lxmlGramplet.py:298
 msgid "XSD validation (lxml)"
-msgstr ""
+msgstr "Validació XSD (lxml)"
 
 #: lxml/lxmlGramplet.py:298
 #, python-format
 msgid "Cannot validate \"%(file)s\" !"
-msgstr ""
+msgstr "No es pot validar \"%(file)s\"!"
 
 #: lxml/lxmlGramplet.py:306
 #, python-format
 msgid "xmllint: skip DTD validation for \"%(file)s\""
-msgstr ""
+msgstr "xmllint: omet la validació DTD per a \"%(file)s\""
 
 #: lxml/lxmlGramplet.py:318
 #, python-format
 msgid "xmllint: skip RelaxNG validation for \"%(file)s\""
-msgstr ""
+msgstr "xmllint: omet la validació de RelaxNG per a \"%(file)s\""
 
 #: lxml/lxmlGramplet.py:329
 msgid "Parsing issue"
-msgstr ""
+msgstr "Problema d'anàlisi"
 
 #: lxml/lxmlGramplet.py:329
 #, python-format
 msgid "Cannot parse content of \"%(file)s\""
-msgstr ""
+msgstr "No es pot analitzar el contingut de \"%(file)s\""
 
 #: lxml/lxmlGramplet.py:333
 msgid "Gramps version"
-msgstr ""
+msgstr "Versió de Gramps"
 
 #: lxml/lxmlGramplet.py:333
 #, python-format
@@ -607,19 +607,21 @@ msgid ""
 "Wrong namespace\n"
 "Need: %s"
 msgstr ""
+"Espai de noms incorrecte\n"
+"Es necessita: %s"
 
 #: lxml/lxmlGramplet.py:337
 msgid "RelaxNG validation"
-msgstr ""
+msgstr "Validació RelaxNG"
 
 #: lxml/lxmlGramplet.py:337
 #, python-format
 msgid "Cannot validate \"%(file)s\" via RelaxNG schema"
-msgstr ""
+msgstr "No es pot validar \"%(file)s\" mitjançant l'esquema RelaxNG"
 
 #: lxml/lxmlGramplet.py:341
 msgid "File issue"
-msgstr ""
+msgstr "Problema amb el fitxer"
 
 #: lxml/lxmlGramplet.py:341
 #, python-format
@@ -2151,10 +2153,8 @@ msgid "%s event descriptions of %s events were changed."
 msgstr ""
 
 #: EventDescriptionEditor/EventDescriptionEditor.py:142
-#, fuzzy
-#| msgid "place: "
 msgid "Replace"
-msgstr "lloc: "
+msgstr "Substitueix"
 
 #: EventDescriptionEditor/EventDescriptionEditor.py:145
 msgid "Replace substring only"
@@ -2571,9 +2571,8 @@ msgid "AncestorFill for %s"
 msgstr ""
 
 #: AncestorFill/AncestorFill.py:205
-#, fuzzy
 msgid "Generation "
-msgstr "General"
+msgstr "Generació "
 
 #: AncestorFill/AncestorFill.py:206
 msgid "Number of Ancestors found "
@@ -4077,10 +4076,8 @@ msgid "Shared Citation ID :"
 msgstr ""
 
 #: FamilyTreeDNA/ftdna_import.py:151
-#, fuzzy
-#| msgid "Active person"
 msgid "Active Person : "
-msgstr "Persona activa"
+msgstr "Persona activa : "
 
 #: FamilyTreeDNA/ftdna_import.py:165
 msgid "Import data from Family Finder files"
@@ -6676,9 +6673,8 @@ msgid "Media Object Title"
 msgstr "Filtres d'Objecte Audiovisual"
 
 #: EditExifMetadata/editexifmetadata.py:978
-#, fuzzy
 msgid "media Title: "
-msgstr "Títol de Calendari"
+msgstr "Títol dels mitjans: "
 
 #: EditExifMetadata/editexifmetadata.py:993
 #, fuzzy
@@ -6686,33 +6682,28 @@ msgid "General Data"
 msgstr "General"
 
 #: EditExifMetadata/editexifmetadata.py:1003
-#, fuzzy
 msgid "Description: "
-msgstr "Descripció:"
+msgstr "Descripció: "
 
 #: EditExifMetadata/editexifmetadata.py:1004
-#, fuzzy
 msgid "Artist: "
-msgstr "Artista"
+msgstr "Artista: "
 
 #: EditExifMetadata/editexifmetadata.py:1005
-#, fuzzy
 msgid "Copyright: "
-msgstr "Copyright"
+msgstr "Copyright: "
 
 #: EditExifMetadata/editexifmetadata.py:1019
 msgid "Date/ Time"
 msgstr "Data/Hora"
 
 #: EditExifMetadata/editexifmetadata.py:1034
-#, fuzzy
 msgid "Original: "
-msgstr "Temps original"
+msgstr "Original: "
 
 #: EditExifMetadata/editexifmetadata.py:1035
-#, fuzzy
 msgid "Modified: "
-msgstr "Última Modificació"
+msgstr "Modificat: "
 
 #: EditExifMetadata/editexifmetadata.py:1054
 msgid "Latitude/ Longitude/ Altitude GPS coordinates"
@@ -10783,10 +10774,8 @@ msgid "27. Church or place of worship: Number of communicants"
 msgstr ""
 
 #: Form/form_ca.xml.h:595
-#, fuzzy
-#| msgid "Selecting... "
 msgid "Seating"
-msgstr "Seleccionant... "
+msgstr "Seients"
 
 #: Form/form_ca.xml.h:596
 msgid "28. Church or place of worship: Seating capacity"
@@ -13604,10 +13593,8 @@ msgid "Re-enlisted as"
 msgstr ""
 
 #: Form/form_us.xml.h:993
-#, fuzzy
-#| msgid "date: "
 msgid "On date"
-msgstr "data: "
+msgstr "En data"
 
 #: Form/form_us.xml.h:995
 msgid "and continued until"
@@ -17817,10 +17804,8 @@ msgid "Birth date:"
 msgstr ""
 
 #: SourceIndex/death.glade:1035 SourceIndex/census.glade:381
-#, fuzzy
-#| msgid "place: "
 msgid "Birth place:"
-msgstr "lloc: "
+msgstr "Lloc de naixement:"
 
 #: SourceIndex/death.glade:1067 SourceIndex/census.glade:671
 #, fuzzy
@@ -17877,10 +17862,8 @@ msgid "Death date:"
 msgstr "data de defunció"
 
 #: SourceIndex/census.glade:414
-#, fuzzy
-#| msgid "place: "
 msgid "Death place:"
-msgstr "lloc: "
+msgstr "Lloc de defunció:"
 
 #: SourceIndex/census.glade:447
 #, fuzzy
@@ -17897,16 +17880,12 @@ msgid "Marriage act:"
 msgstr ""
 
 #: SourceIndex/marriage.glade:81
-#, fuzzy
-#| msgid "date: "
 msgid "m. date:"
-msgstr "data: "
+msgstr "data de m.:"
 
 #: SourceIndex/marriage.glade:97
-#, fuzzy
-#| msgid "place: "
 msgid "m. place:"
-msgstr "lloc: "
+msgstr "Lloc de m.:"
 
 #: SourceIndex/marriage.glade:113
 msgid "d.contract:"
@@ -17921,10 +17900,8 @@ msgid "p.contract:"
 msgstr ""
 
 #: SourceIndex/marriage.glade:167
-#, fuzzy
-#| msgid "place: "
 msgid "places banns:"
-msgstr "lloc: "
+msgstr "llocs prohibits:"
 
 #: SourceIndex/marriage.glade:198
 msgid "<b>Data union</b>"
@@ -19568,10 +19545,8 @@ msgid "All persons already had one."
 msgstr ""
 
 #: TimePedigreeHTML/TimePedigreeHtml.py:168
-#, fuzzy
-#| msgid "Failure writing %s"
 msgid "Failed writing "
-msgstr "Error en escriure %s"
+msgstr "Error en escriure "
 
 #: TimePedigreeHTML/TimePedigreeHtml.py:849
 msgid "Year of Birth of Center Person"
@@ -19784,10 +19759,8 @@ msgid "reverse hierarchy"
 msgstr ""
 
 #: PlaceUpdate/PlaceUpdate.py:181
-#, fuzzy
-#| msgid "place: "
 msgid "Replace text"
-msgstr "lloc: "
+msgstr "Substitueix el text"
 
 #: PlaceUpdate/PlaceUpdate.py:184
 msgid "Use regex"
@@ -22574,10 +22547,8 @@ msgid "Search for:"
 msgstr ""
 
 #: PlaceCoordinateGramplet/placecoordinate.glade:26
-#, fuzzy
-#| msgid "place: "
 msgid "Found place:"
-msgstr "lloc: "
+msgstr "Lloc trobat:"
 
 #: PlaceCoordinateGramplet/placecoordinate.glade:53
 msgid "No DB entry is selected"
