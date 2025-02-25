@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: GRAMPS 3.1.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-16 15:10-0800\n"
-"PO-Revision-Date: 2025-02-25 18:32+0000\n"
+"PO-Revision-Date: 2025-02-25 19:38+0000\n"
 "Last-Translator: Milan <mobrcian@hotmail.com>\n"
 "Language-Team: Slovak <https://hosted.weblate.org/projects/gramps-project/"
 "addons/sk/>\n"
@@ -6227,83 +6227,69 @@ msgid "Latitude, Longitude"
 msgstr "Zemepisná šírka, zemepisná dĺžka"
 
 #: PersonEverything/PersonEverything.py:648
-#, fuzzy
-#| msgid "Repositories Index"
 msgid "Repository type"
-msgstr "Index prameňov"
+msgstr "Typ archívu"
 
 #: PersonEverything/PersonEverything.py:670
-#, fuzzy
-#| msgid "Source references:"
 msgid "Repository reference"
-msgstr "Odkazy na zdroje:"
+msgstr "Odkaz na archív"
 
 #: PersonEverything/PersonEverything.py:671
-#, fuzzy
-#| msgid "Media Type"
 msgid "Media type"
 msgstr "Typ média"
 
 #: PersonEverything/PersonEverything.py:679
-#, fuzzy
-#| msgid "Original: "
 msgid "Origin type"
-msgstr "Originál: "
+msgstr "Typ pôvodu"
 
 #: PersonEverything/PersonEverything.py:686
 msgid "Prefix, surname, connector"
-msgstr ""
+msgstr "Predpona, priezvisko, spojka"
 
 #: PersonEverything/PersonEverything.py:691
 msgid "{This is the primary surname}"
-msgstr ""
+msgstr "{Toto je primárne priezvisko}"
 
 #: PersonEverything/PersonEverything.py:704
 msgid "Tag name"
-msgstr ""
+msgstr "Názov značky"
 
 #: PersonEverything/PersonEverything.py:715
 msgid "Tag colour and priority"
-msgstr ""
+msgstr "Farba značky a priorita"
 
 #: PersonEverything/PersonEverything.py:960
-#, fuzzy
-#| msgid "Source format"
 msgid "No source information found"
-msgstr "Formát zdrojov"
+msgstr "Neboli nájdené žiadne informácie o zdroji"
 
 #: PersonEverything/PersonEverything.gpr.py:32
 msgid "PersonEverything Report"
-msgstr ""
+msgstr "Správa: Všetko o osobe"
 
 #: PersonEverything/PersonEverything.gpr.py:33
 msgid "Produces a report containing everything about the active person"
-msgstr ""
+msgstr "Vytvorí správu obsahujúcu všetko o aktívnej osobe"
 
 #: GeoAncestor/GeoAncestor.gpr.py:31 GeoAncestor/GeoAncestor.gpr.py:41
-#, fuzzy
-#| msgid "Ancestor"
 msgid "Ancestors map"
-msgstr "Predok"
+msgstr "Mapa predkov"
 
 #: GeoAncestor/GeoAncestor.gpr.py:32
 msgid "A view showing ancestors places on the map."
-msgstr ""
+msgstr "Pohľad zobrazujúci miesta predkov na mape."
 
 #: GeoAncestor/GeoAncestor.py:207
 msgid "Ancestors places on the map"
-msgstr ""
+msgstr "Miesta predkov na mape"
 
 #: GeoAncestor/GeoAncestor.py:235
-#, fuzzy
-#| msgid "Ancestor"
 msgid "GeoAncestor"
-msgstr "Predok"
+msgstr "GeoAncestor"
 
 #: GeoAncestor/GeoAncestor.py:304
 #, python-format
 msgid "Ancestors places for %s"
-msgstr ""
+msgstr "Miesta predkov pre %s"
 
 #: GeoAncestor/GeoAncestor.py:311
 #, fuzzy
