@@ -23,8 +23,8 @@ msgstr ""
 "Project-Id-Version: de\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-16 15:10-0800\n"
-"PO-Revision-Date: 2025-02-26 06:04+0000\n"
-"Last-Translator: Christoph Eder <christoph.eder@phsalzburg.at>\n"
+"PO-Revision-Date: 2025-02-26 20:54+0000\n"
+"Last-Translator: Mirko Leonhäuser <mirko@leonhaeuser.de>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/gramps-project/"
 "addons/de/>\n"
 "Language: de\n"
@@ -1230,7 +1230,7 @@ msgstr "Passt zu Personen, die mehr als ein Elternpaar haben"
 #: FilterRules/associationsofpersonmatch.gpr.py:25
 #: FilterRules/associationsofpersonmatch.gpr.py:26
 msgid "Match associations of <person filter>"
-msgstr ""
+msgstr "Entspricht den Zuordnungen von <Personenfilter>"
 
 #: FilterRules/hasrolerule.py:55
 msgid "Does NOT match with selected Role"
@@ -1291,11 +1291,12 @@ msgstr "Grad:"
 
 #: FilterRules/peopleeventscount.py:50 FilterRules/peopleeventscount.gpr.py:25
 msgid "People with <count> of <event>"
-msgstr ""
+msgstr "Personen mit <Anzahl> von <Ereignis>"
 
 #: FilterRules/peopleeventscount.py:52 FilterRules/peopleeventscount.gpr.py:26
 msgid "Matches persons which have events of given type and number."
 msgstr ""
+"Entspricht Personen, die Ereignisse der angegebenen Art und Anzahl haben."
 
 #: FilterRules/infamilyrule.py:48 FilterRules/infamilyrule.py:123
 msgid "Include Children"
@@ -1325,7 +1326,7 @@ msgstr "Personen, die Teil von Familien sind, die mit <filter> übereinstimmen"
 #: FilterRules/ageatdeath.gpr.py:25 FilterRules/ageatdeath.py:72
 #: FilterRules/ageatdeath.py:74
 msgid "Filter people by their age at death"
-msgstr ""
+msgstr "Personen nach ihrem Sterbealter filtern"
 
 #: FilterRules/ageatdeath.gpr.py:26
 msgid "Filter rule that matches people by their age at death"
@@ -1333,7 +1334,7 @@ msgstr "Filterregel, die Personen nach ihrem Alter beim Tod abgleicht"
 
 #: FilterRules/multipleparents.gpr.py:27 FilterRules/multipleparents.gpr.py:28
 msgid "Multiple Parents Filter"
-msgstr ""
+msgstr "Mehrere Eltern Filter"
 
 #: FilterRules/hasrolerule.gpr.py:27
 msgid "People with events with a selected role"
@@ -1362,7 +1363,7 @@ msgstr "Entspricht der aktiven Person"
 
 #: FilterRules/ageatdeath.py:47
 msgid "Age in years at person's death."
-msgstr ""
+msgstr "Alter in Jahren beim Tod der Person."
 
 #: FilterRules/ageatdeath.py:71
 msgid "Age:"
@@ -1607,6 +1608,9 @@ msgid ""
 "Always put first of multiple spouses on the left. This can help reduce line-"
 "crossings with multiple marriages."
 msgstr ""
+"Setze den ersten von mehreren Ehepartnern immer auf die linke Seite. Dies "
+"kann dazu beitragen, dass es bei mehreren Ehen weniger "
+"Zeilenüberschneidungen gibt."
 
 #: ExportPersonGexf/exportpersongexf.gpr.py:30
 msgid "Person GEXF"
@@ -1618,7 +1622,7 @@ msgstr "_Person GEXF"
 
 #: ExportPersonGexf/exportpersongexf.gpr.py:32
 msgid "GEXF is used in many network graph applications."
-msgstr ""
+msgstr "GEXF wird in vielen Netzwerkgraphenanwendungen eingesetzt."
 
 #: ExportPersonGexf/exportpersongexf.gpr.py:40
 msgid "GEXF export options"
@@ -2067,15 +2071,15 @@ msgstr "FamilySearch.org Baum"
 
 #: SVWebconnectPack/SVWebPack.py:40
 msgid "National archives of Sweden personsearch"
-msgstr ""
+msgstr "Nationale Archive von Schweden Personensuche"
 
 #: SVWebconnectPack/SVWebPack.py:41
 msgid "National archives of Sweden free search"
-msgstr ""
+msgstr "Nationale Archive von Schweden freie Suche"
 
 #: SVWebconnectPack/SVWebPack.py:42
 msgid "Arkiv Digital estate records for Skåne"
-msgstr ""
+msgstr "Arkiv Digital Nachlassregister für Skåne"
 
 #: SVWebconnectPack/SVWebPack.py:43
 msgid "Ancestry Search"
@@ -2083,23 +2087,23 @@ msgstr "Ancestry Suche"
 
 #: SVWebconnectPack/SVWebPack.py:44
 msgid "Find swedish portraits - Rötter.se"
-msgstr ""
+msgstr "Schwedische Porträts finden - Rötter.se"
 
 #: SVWebconnectPack/SVWebPack.py:45
 msgid "Gravar.se - find swedish graves"
-msgstr ""
+msgstr "Gravar.se - schwedische Gräber finden"
 
 #: SVWebconnectPack/SVWebPack.py:46
 msgid "National archives of Sweden search censuses"
-msgstr ""
+msgstr "Nationale Archive von Schweden Suche Volkszählungen"
 
 #: SVWebconnectPack/SVWebPack.py:47
 msgid "Arkiv Digital released prisoners"
-msgstr ""
+msgstr "Arkiv Digital entlässt Gefangene"
 
 #: SVWebconnectPack/SVWebPack.py:48
 msgid "Gravestone inventory - rötter.se"
-msgstr ""
+msgstr "Grabsteininventar - rötter.se"
 
 #: PluginManager/PluginManager.gpr.py:30
 msgid "Plugin Manager Enhanced"
@@ -2240,7 +2244,7 @@ msgstr "Reguläre Ausdrücke zulassen"
 
 #: EventDescriptionEditor/EventDescriptionEditor.py:152
 msgid "Allow regular expressions."
-msgstr ""
+msgstr "Reguläre Ausdrücke zulassen."
 
 #: EventDescriptionEditor/EventDescriptionEditor.gpr.py:27
 msgid ""
@@ -2373,15 +2377,15 @@ msgstr "Überprüft, das die Medien im korrekten Pfad vorhanden sind"
 
 #: Betawhatsnext/Betawhatsnext.gpr.py:48
 msgid "Beta What's Next"
-msgstr ""
+msgstr "Beta Was kommt als Nächstes"
 
 #: Betawhatsnext/Betawhatsnext.gpr.py:49
 msgid "Beta Gramplet suggesting items to research"
-msgstr ""
+msgstr "Beta Gramplet schlägt Elemente für die Forschung vor"
 
 #: Betawhatsnext/Betawhatsnext.gpr.py:60
 msgid "Beta What's Next?"
-msgstr ""
+msgstr "Beta Was kommt als Nächstes?"
 
 #: Betawhatsnext/Betawhatsnext.py:46
 msgid ""
@@ -2389,47 +2393,58 @@ msgid ""
 " ⛔ A local Genealogical Tree database has not yet been loaded.\n"
 "\n"
 msgstr ""
+"\n"
+" ⛔ Eine lokale Genealogie-Baum-Datenbank wurde noch nicht geladen.\n"
+"\n"
 
 #: Betawhatsnext/Betawhatsnext.py:49
 msgid " 👣 Next Steps:\n"
-msgstr ""
+msgstr " 👣 Nächste Schritte:\n"
 
 #: Betawhatsnext/Betawhatsnext.py:50
 msgid "  •  From the \"Family Trees\" menu,"
-msgstr ""
+msgstr "  •  Über das Menü \"Stammbäume \","
 
 #: Betawhatsnext/Betawhatsnext.py:51
 msgid " use the \"Manage Family Trees...\" option to"
-msgstr ""
+msgstr " verwende die Option \"Stammbäume verwalten...\", um"
 
 #: Betawhatsnext/Betawhatsnext.py:52
 msgid " create a New (or to select an existing) Tree database.\n"
-msgstr ""
+msgstr " eine neue Baumdatenbank erstellen (oder eine bestehende auswählen).\n"
 
 #: Betawhatsnext/Betawhatsnext.py:53
 msgid "  •  Click the \"Load Family Tree\" button to begin"
-msgstr ""
+msgstr "  •  Klicke auf die Schaltfläche \"Stammbaum laden\", um zu beginnen"
 
 #: Betawhatsnext/Betawhatsnext.py:54
 msgid ""
 " working with the selected genealogical tree.\n"
 "\n"
 msgstr ""
+" arbeiten mit dem ausgewählten Stammbaum.\n"
+"\n"
 
 #: Betawhatsnext/Betawhatsnext.py:55
 msgid "Create and load an empty new tree to import a backup (or"
 msgstr ""
+"Erstelle und lade einen leeren neuen Baum, um eine Sicherung zu importieren "
+"(oder"
 
 #: Betawhatsnext/Betawhatsnext.py:56
 msgid ""
 " GEDCOM file) from another genealogical tool.\n"
 "\n"
 msgstr ""
+" GEDCOM-Datei) aus einem anderen genealogischen Werkzeug.\n"
+"\n"
 
 #: Betawhatsnext/Betawhatsnext.py:70
 msgid ""
 "Use the \"Configure\" in the \"View\" menu to change the Gramplet options."
 msgstr ""
+"Verwende die Option \"Konfigurieren\" im Menü \"Ansicht\", um die Gramplet-"
+"Optionen zu ändern."
 
 #: Betawhatsnext/Betawhatsnext.py:86
 msgid "Search Quota "
@@ -2437,11 +2452,11 @@ msgstr "Suchkontingent "
 
 #: Betawhatsnext/Betawhatsnext.py:92
 msgid "Depth per loop"
-msgstr ""
+msgstr "Tiefe pro Schleife"
 
 #: Betawhatsnext/Betawhatsnext.py:98
 msgid "Pause search expansion"
-msgstr ""
+msgstr "Sucherweiterung pausieren"
 
 #: Betawhatsnext/Betawhatsnext.py:105
 msgid "Completed Person"
@@ -2460,6 +2475,8 @@ msgid ""
 "\n"
 " ⛔ The current Tree database contains no people.\n"
 msgstr ""
+"\n"
+" ⛔ Die aktuelle Baumdatenbank enthält keine Personen.\n"
 
 #: Betawhatsnext/Betawhatsnext.py:226
 msgid ""
@@ -2474,12 +2491,25 @@ msgid ""
 "  • An external file may be used to populate the tree via \"Import...\" in "
 "the \"Family Trees\" menu."
 msgstr ""
+"\n"
+" 👣 Nächste Schritte:\n"
+" Füge eine Familie und eine Person in dieser Familie hinzu:\n"
+"  - Eine Familie kann über das Menü „Hinzufügen“ hinzugefügt werden.\n"
+"  - Eine Person kann durch Drücken des \"+\" (Plus) in den Feldern für den "
+"Ehepartner (\"Vater/Partner1\" oder \"Mutter/Partner2\") oder im Register "
+"\"Kinder\" hinzugefügt werden.\n"
+"\n"
+"Oder du importierst Personen aus einer externen Datei:\n"
+"  - Eine externe Datei kann verwendet werden, um den Baum über "
+"\"Importieren...\" im Menü „Familienstammbäume“ aufzufüllen."
 
 #: Betawhatsnext/Betawhatsnext.py:254
 msgid ""
 "\n"
 " ⛔ No Person has been chosen as the focal \"Home Person\".\n"
 msgstr ""
+"\n"
+" ⛔ Es wurde keine Person als zentrale \"Hauptperson\" ausgewählt.\n"
 
 #: Betawhatsnext/Betawhatsnext.py:258
 msgid ""
