@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-16 15:10-0800\n"
-"PO-Revision-Date: 2025-02-25 16:12+0000\n"
+"PO-Revision-Date: 2025-02-26 20:54+0000\n"
 "Last-Translator: Yurii Liubymyi <jurchello@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/gramps-project/"
 "addons/uk/>\n"
@@ -14149,7 +14149,7 @@ msgstr "Сума заробітної плати у 1949 році"
 msgid ""
 "Last year, how much money did he earn working as an employee for wages or "
 "salary?"
-msgstr ""
+msgstr "Минулого року, скільки грошей він заробив, працюючи за зарплату?"
 
 #: Form/form_us.xml.h:951
 msgid "Amount of money from own business in 1949"
@@ -14160,6 +14160,8 @@ msgid ""
 "Last year, how much money did he earn working in his own business, "
 "professional practice, or farm?"
 msgstr ""
+"Минулого року, скільки грошей він заробив, працюючи у власному бізнесі, "
+"професійній практиці або на фермі?"
 
 #: Form/form_us.xml.h:953
 msgid "Amount of other income in 1949"
@@ -14170,30 +14172,36 @@ msgid ""
 "Last year, how much money did he receive from interest, dividends, veteran’s "
 "allowances, pensions, rents, or other income?"
 msgstr ""
+"Минулого року, яку суму грошей він отримав від відсотків, дивідендів, "
+"допомог для ветеранів, пенсій, орендної плати чи інших доходів?"
 
 #: Form/form_us.xml.h:955
 msgid "Relatives in household wages/salary in 1949"
-msgstr ""
+msgstr "Заробітна плата/оклад родичів у домогосподарстві у 1949 році"
 
 #: Form/form_us.xml.h:956
 msgid ""
 "Last year, how much money did his relatives in this household earn working "
 "for wages or salary?"
 msgstr ""
+"Минулого року, скільки грошей заробили його родичі в цьому домогосподарстві, "
+"працюючи за зарплату?"
 
 #: Form/form_us.xml.h:957
 msgid "Relatives in household earnings from own business in 1949"
-msgstr ""
+msgstr "Дохід родичів у домогосподарстві від власного бізнесу у 1949 році"
 
 #: Form/form_us.xml.h:958
 msgid ""
 "Last year, how much money did his relatives in this household earn in own "
 "business, professional practice, or farm?"
 msgstr ""
+"Минулого року, скільки грошей заробили його родичі в цьому домогосподарстві "
+"у власному бізнесі, професійній практиці або на фермі?"
 
 #: Form/form_us.xml.h:959
 msgid "Relatives in household other income in 1949"
-msgstr ""
+msgstr "Інші доходи родичів у домогосподарстві у 1949 році"
 
 #: Form/form_us.xml.h:960
 msgid ""
@@ -14206,77 +14214,79 @@ msgstr ""
 
 #: Form/form_us.xml.h:961
 msgid "WWII Veteran?"
-msgstr ""
+msgstr "Ветеран Другої світової війни?"
 
 #: Form/form_us.xml.h:962
 msgid "Did he ever serve in the U. S. Armed Forces during World War II?"
-msgstr ""
+msgstr "Чи служив він у Збройних силах США під час Другої світової війни?"
 
 #: Form/form_us.xml.h:963
 msgid "WWI Veteran?"
-msgstr ""
+msgstr "Ветеран Першої світової війни?"
 
 #: Form/form_us.xml.h:964
 msgid "World War I?"
-msgstr ""
+msgstr "Перша світова війна?"
 
 #: Form/form_us.xml.h:965
 msgid "Any other time, including present service?"
-msgstr ""
+msgstr "Будь-коли ще, включаючи поточну службу?"
 
 #: Form/form_us.xml.h:966
 msgid "What kind of work did this person do in his last job?"
-msgstr ""
+msgstr "Яку роботу виконував він на останньому місці роботи?"
 
 #: Form/form_us.xml.h:967
 msgid "What kind of business or industry did he work in?"
-msgstr ""
+msgstr "У якій сфері бізнесу чи промисловості він працював?"
 
 #: Form/form_us.xml.h:968
 msgid "Class of worker [last job]"
-msgstr ""
+msgstr "Категорія працівника [остання робота]"
 
 #: Form/form_us.xml.h:969
 msgid "Has this person been married more than once?"
-msgstr ""
+msgstr "Чи був(-ла) ця особа одружена більше одного разу?"
 
 #: Form/form_us.xml.h:970
 msgid "# years since marriage ended"
-msgstr ""
+msgstr "# років з моменту закінчення шлюбу"
 
 #: Form/form_us.xml.h:971
 msgid ""
 "How many years since this person was married, widowed, divorced, or "
 "separated?"
 msgstr ""
+"Скільки років минуло з моменту одруження, овдовіння, розлучення чи "
+"розлучення з партнером?"
 
 #: Form/form_us.xml.h:972
 msgid "How many children has she ever borne, not counting stillbirths?"
-msgstr ""
+msgstr "Скільки дітей вона народила, не враховуючи мертвонароджених?"
 
 #: Form/form_us.xml.h:973
 msgid "Census Date"
-msgstr ""
+msgstr "Дата перепису"
 
 #: Form/form_us.xml.h:974
 msgid "District of"
-msgstr ""
+msgstr "Округ"
 
 #: Form/form_us.xml.h:977
 msgid "Married Y/N"
-msgstr ""
+msgstr "Одружений (Так/Ні)"
 
 #: Form/form_us.xml.h:978
 msgid "Spouses Age"
-msgstr ""
+msgstr "Вік подружжя"
 
 #: Form/form_us.xml.h:982
 msgid "File No."
-msgstr ""
+msgstr "Номер файлу"
 
 #: Form/form_us.xml.h:984 Form/form_us.xml.h:1003 Form/form_us.xml.h:1058
 msgid "Post Office Address"
-msgstr ""
+msgstr "Поштова адреса"
 
 #: Form/form_us.xml.h:985 Form/form_us.xml.h:1009 Form/form_us.xml.h:2374
 #: Form/form_us.xml.h:2556 Form/form_dk.xml.h:260 Form/form_dk.xml.h:295
@@ -14284,988 +14294,991 @@ msgstr ""
 #: Form/form_dk.xml.h:395 Form/form_dk.xml.h:417 Form/form_dk.xml.h:435
 #: Form/form_gb.xml.h:50
 msgid "Date of Birth"
-msgstr ""
+msgstr "Дата народження"
 
 #: Form/form_us.xml.h:986 Form/form_us.xml.h:1008 Form/form_us.xml.h:1141
 #: Form/form_us.xml.h:1155 Form/form_us.xml.h:1452 Form/form_us.xml.h:2375
 #: Form/form_us.xml.h:2488 Form/form_us.xml.h:2513 Form/form_us.xml.h:2557
 #: Form/form_gb.xml.h:51
 msgid "Place of Birth"
-msgstr ""
+msgstr "Місце народження"
 
 #: Form/form_us.xml.h:987
 msgid "Entered service as (rank)"
-msgstr ""
+msgstr "Вступив на службу у званні"
 
 #: Form/form_us.xml.h:988
 msgid "Date Entered"
-msgstr ""
+msgstr "Дата вступу"
 
 #: Form/form_us.xml.h:989 Form/form_us.xml.h:1010
 msgid "Place of Enlistment"
-msgstr ""
+msgstr "Місце призову"
 
 #: Form/form_us.xml.h:990
 msgid "Name, Letter of Co., Number of Regiment"
-msgstr ""
+msgstr "Назва, літера роти, номер полку"
 
 #: Form/form_us.xml.h:991
 msgid "Continued until"
-msgstr ""
+msgstr "Продовжував до"
 
 #: Form/form_us.xml.h:992
 msgid "Re-enlisted as"
-msgstr ""
+msgstr "Повторно вступив на службу у званні"
 
 #: Form/form_us.xml.h:993
 msgid "On date"
-msgstr ""
+msgstr "На дату"
 
 #: Form/form_us.xml.h:995
 msgid "and continued until"
-msgstr ""
+msgstr "та продовжував до"
 
 #: Form/form_us.xml.h:996
 msgid "3rd enlistment"
-msgstr ""
+msgstr "Третє зарахування"
 
 #: Form/form_us.xml.h:997
 msgid "Enlisted on"
-msgstr ""
+msgstr "Зарахований на службу"
 
 #: Form/form_us.xml.h:998
 msgid "Enlistment Place"
-msgstr ""
+msgstr "Місце зарахування"
 
 #: Form/form_us.xml.h:999
 msgid "in the command of"
-msgstr ""
+msgstr "під командуванням"
 
 #: Form/form_us.xml.h:1001
 msgid "Other service, if any"
-msgstr ""
+msgstr "Інша служба, якщо була"
 
 #: Form/form_us.xml.h:1004
 msgid "No. on pension roll"
-msgstr ""
+msgstr "Номер у пенсійному списку"
 
 #: Form/form_us.xml.h:1005
 msgid "County lived in when first placed on roll"
-msgstr ""
+msgstr "Округ, у якому проживав при першому включенні до списку"
 
 #: Form/form_us.xml.h:1006
 msgid "Other states lived in and when"
-msgstr ""
+msgstr "Інші штати, в яких проживав, і коли"
 
 #: Form/form_us.xml.h:1007
 msgid "Moved to Alabama"
-msgstr ""
+msgstr "Переїхав до Алабами"
 
 #: Form/form_us.xml.h:1012
 msgid "Branch of service"
-msgstr ""
+msgstr "Рід військ"
 
 #: Form/form_us.xml.h:1014
 msgid "Letter of Company"
-msgstr ""
+msgstr "Літера роти"
 
 #: Form/form_us.xml.h:1015
 msgid "Number of Regiment"
-msgstr ""
+msgstr "Номер полку"
 
 #: Form/form_us.xml.h:1016
 msgid "Was it an Alabama Regiment"
-msgstr ""
+msgstr "Це був полк Алабами?"
 
 #: Form/form_us.xml.h:1017
 msgid "If not, give name of state"
-msgstr ""
+msgstr "Якщо ні, вкажіть назву штату"
 
 #: Form/form_us.xml.h:1018
 msgid "Name of your Captain"
-msgstr ""
+msgstr "Ім'я вашого капітана"
 
 #: Form/form_us.xml.h:1019
 msgid "Name of your Colonel"
-msgstr ""
+msgstr "Ім'я вашого полковника"
 
 #: Form/form_us.xml.h:1020
 msgid "By what other name was your Company called"
-msgstr ""
+msgstr "Під якою ще назвою була відома ваша рота"
 
 #: Form/form_us.xml.h:1021
 msgid "By what other name was your Regiment called"
-msgstr ""
+msgstr "Під якою ще назвою був відомий ваш полк"
 
 #: Form/form_us.xml.h:1022
 msgid "Battles in which you took part"
-msgstr ""
+msgstr "Битви, в яких ви брали участь"
 
 #: Form/form_us.xml.h:1023
 msgid "Ever wounded"
-msgstr ""
+msgstr "Чи був поранений"
 
 #: Form/form_us.xml.h:1024
 msgid "When wounded"
-msgstr ""
+msgstr "Коли поранений"
 
 #: Form/form_us.xml.h:1025
 msgid "In what battles"
-msgstr ""
+msgstr "У яких битвах"
 
 #: Form/form_us.xml.h:1026
 msgid "Were you captured"
-msgstr ""
+msgstr "Чи був у полоні"
 
 #: Form/form_us.xml.h:1027
 msgid "When captured"
-msgstr ""
+msgstr "Коли потрапив у полон"
 
 #: Form/form_us.xml.h:1028
 msgid "Where captured"
-msgstr ""
+msgstr "Де потрапив у полон"
 
 #: Form/form_us.xml.h:1029
 msgid "Were you imprisoned"
-msgstr ""
+msgstr "Чи був ув'язнений"
 
 #: Form/form_us.xml.h:1030
 msgid "When imprisoned"
-msgstr ""
+msgstr "Коли ув'язнений"
 
 #: Form/form_us.xml.h:1031
 msgid "Were imprisoned"
-msgstr ""
+msgstr "Де ув'язнений"
 
 #: Form/form_us.xml.h:1032
 msgid "How were you discharged"
-msgstr ""
+msgstr "Як вас звільнили зі служби"
 
 #: Form/form_us.xml.h:1033
 msgid "Did you transfer to another Company or Command"
-msgstr ""
+msgstr "Чи переводили вас до іншої роти або командування"
 
 #: Form/form_us.xml.h:1034
 msgid "If so, give Company and Regiment"
-msgstr ""
+msgstr "Якщо так, вкажіть роту та полк"
 
 #: Form/form_us.xml.h:1035
 msgid "What branch of service and date of transfer"
-msgstr ""
+msgstr "Який рід військ і дата переведення"
 
 #: Form/form_us.xml.h:1036
 msgid "Captains name"
-msgstr ""
+msgstr "Ім'я капітана"
 
 #: Form/form_us.xml.h:1037
 msgid "Colonels name"
-msgstr ""
+msgstr "Ім'я полковника"
 
 #: Form/form_us.xml.h:1038
 msgid "Length of service"
-msgstr ""
+msgstr "Тривалість служби"
 
 #: Form/form_us.xml.h:1039
 msgid "Are you married"
-msgstr ""
+msgstr "Чи ви одружені"
 
 #: Form/form_us.xml.h:1040
 msgid "Age of wife"
-msgstr ""
+msgstr "Вік дружини"
 
 #: Form/form_us.xml.h:1041
 msgid "Birthplace of wife"
-msgstr ""
+msgstr "Місце народження дружини"
 
 #: Form/form_us.xml.h:1042
 msgid "Date married"
-msgstr ""
+msgstr "Дата одруження"
 
 #: Form/form_us.xml.h:1043
 msgid "Place married"
-msgstr ""
+msgstr "Місце одруження"
 
 #: Form/form_us.xml.h:1044
 msgid "When, where and circumstances you quit the service"
-msgstr ""
+msgstr "Коли, де і за яких обставин ви залишили службу"
 
 #: Form/form_us.xml.h:1045
 msgid "Paroled at close of war"
-msgstr ""
+msgstr "Звільнений під чесне слово після закінчення війни"
 
 #: Form/form_us.xml.h:1046
 msgid "If so, when"
-msgstr ""
+msgstr "Якщо так, коли"
 
 #: Form/form_us.xml.h:1047
 msgid "and where"
-msgstr ""
+msgstr "і де"
 
 #: Form/form_us.xml.h:1048
 msgid "Have you your parole"
-msgstr ""
+msgstr "Чи маєте ви документ про звільнення під чесне слово"
 
 #: Form/form_us.xml.h:1049
 msgid "Voting Precinct and County"
-msgstr ""
+msgstr "Виборчий округ і округ"
 
 #: Form/form_us.xml.h:1051
 msgid "With whom are you living"
-msgstr ""
+msgstr "З ким ви проживаєте"
 
 #: Form/form_us.xml.h:1052
 msgid "Regularly received your pension warrant"
-msgstr ""
+msgstr "Чи регулярно ви отримували пенсійне свідоцтво"
 
 #: Form/form_us.xml.h:1053
 msgid "If No give information regarding the same"
-msgstr ""
+msgstr "Якщо ні, надайте відповідну інформацію"
 
 #: Form/form_us.xml.h:1055 Form/form_gb.xml.h:16 Form/form_gb.xml.h:25
 #: Form/form_gb.xml.h:37 Form/form_gb.xml.h:56
 msgid "Signed"
-msgstr ""
+msgstr "Підписано"
 
 #: Form/form_us.xml.h:1056
 msgid "Witness name and P.O Address"
-msgstr ""
+msgstr "Ім'я свідка та поштова адреса"
 
 #: Form/form_us.xml.h:1061 Form/form_us.xml.h:2599
 msgid "Widow of"
-msgstr ""
+msgstr "Вдова"
 
 #: Form/form_us.xml.h:1062
 msgid "Her age"
-msgstr ""
+msgstr "Її вік"
 
 #: Form/form_us.xml.h:1063
 msgid "Her date of birth"
-msgstr ""
+msgstr "Її дата народження"
 
 #: Form/form_us.xml.h:1064
 msgid "Date of marriage"
-msgstr ""
+msgstr "Дата одруження"
 
 #: Form/form_us.xml.h:1074
 msgid "Born within census year"
-msgstr ""
+msgstr "Народжений протягом року перепису"
 
 #: Form/form_us.xml.h:1077
 msgid "Married during census year"
-msgstr ""
+msgstr "Одружений протягом року перепису"
 
 #: Form/form_us.xml.h:1079
 msgid "Months unemployed during census year"
-msgstr ""
+msgstr "Місяці безробіття протягом року перепису"
 
 #: Form/form_us.xml.h:1080
 msgid "(Day of the Enumerator's visit) sick or temporarily disabled"
-msgstr ""
+msgstr "(День візиту переписувача) хворий або тимчасово непрацездатний"
 
 #: Form/form_us.xml.h:1082 Form/form_us.xml.h:1213
 msgid "Deaf and Dumb"
-msgstr ""
+msgstr "Глухий і німий"
 
 #: Form/form_us.xml.h:1085
 msgid "Maimed, Crippled, Bedridden, or otherwise disabled."
-msgstr ""
+msgstr "Покалічений, інвалід, прикутий до ліжка або іншим чином непрацездатний"
 
 #: Form/form_us.xml.h:1087
 msgid "Can not read"
-msgstr ""
+msgstr "Не вміє читати"
 
 #: Form/form_us.xml.h:1088
 msgid "Can not write"
-msgstr ""
+msgstr "Не вміє писати"
 
 #: Form/form_us.xml.h:1103
 msgid "Street Name"
-msgstr ""
+msgstr "Назва вулиці"
 
 #: Form/form_us.xml.h:1104
 msgid "House No."
-msgstr ""
+msgstr "Номер будинку"
 
 #: Form/form_us.xml.h:1130 Form/form_us.xml.h:1145
 msgid "Precinct No."
-msgstr ""
+msgstr "Номер виборчого округу"
 
 #: Form/form_us.xml.h:1136
 msgid "Inside or Outside City Limits"
-msgstr ""
+msgstr "У межах міста або за його межами"
 
 #: Form/form_us.xml.h:1137 Form/form_us.xml.h:1153
 msgid "Age Male"
-msgstr ""
+msgstr "Вік чоловіка"
 
 #: Form/form_us.xml.h:1138 Form/form_us.xml.h:1154
 msgid "Age Female"
-msgstr ""
+msgstr "Вік жінки"
 
 #: Form/form_us.xml.h:1140
 msgid "Relation to Family"
-msgstr ""
+msgstr "Ступінь спорідненості в родині"
 
 #: Form/form_us.xml.h:1142 Form/form_us.xml.h:1156
 msgid "Degree of Education"
-msgstr ""
+msgstr "Рівень освіти"
 
 #: Form/form_us.xml.h:1143
 msgid "Owner or Renter"
-msgstr ""
+msgstr "Власник чи орендар"
 
 #: Form/form_us.xml.h:1152
 msgid "In or Out"
-msgstr ""
+msgstr "Всередині чи зовні"
 
 #: Form/form_us.xml.h:1159
 msgid "White Males Under 10"
-msgstr ""
+msgstr "Білі чоловіки до 10 років"
 
 #: Form/form_us.xml.h:1160
 msgid "White Males 10 to 20"
-msgstr ""
+msgstr "Білі чоловіки 10-20 років"
 
 #: Form/form_us.xml.h:1161
 msgid "White Males 20 to 30"
-msgstr ""
+msgstr "Білі чоловіки 20-30 років"
 
 #: Form/form_us.xml.h:1162
 msgid "White Males 30 to 40"
-msgstr ""
+msgstr "Білі чоловіки 30-40 років"
 
 #: Form/form_us.xml.h:1163
 msgid "White Males 40 to 50"
-msgstr ""
+msgstr "Білі чоловіки 40-50 років"
 
 #: Form/form_us.xml.h:1164
 msgid "White Males 50 to 60"
-msgstr ""
+msgstr "Білі чоловіки 50-60 років"
 
 #: Form/form_us.xml.h:1165
 msgid "White Males 60 to 70"
-msgstr ""
+msgstr "Білі чоловіки 60-70 років"
 
 #: Form/form_us.xml.h:1166
 msgid "White Males 70 to 80"
-msgstr ""
+msgstr "Білі чоловіки 70-80 років"
 
 #: Form/form_us.xml.h:1167
 msgid "White Males 80 to 90"
-msgstr ""
+msgstr "Білі чоловіки 80-90 років"
 
 #: Form/form_us.xml.h:1168
 msgid "White Males Over 90"
-msgstr ""
+msgstr "Білі чоловіки старші 90 років"
 
 #: Form/form_us.xml.h:1169
 msgid "White Females Under 10"
-msgstr ""
+msgstr "Білі жінки до 10 років"
 
 #: Form/form_us.xml.h:1170
 msgid "White Females 10 to 20"
-msgstr ""
+msgstr "Білі жінки 10-20 років"
 
 #: Form/form_us.xml.h:1171
 msgid "White Females 20 to 30"
-msgstr ""
+msgstr "Білі жінки 20-30 років"
 
 #: Form/form_us.xml.h:1172
 msgid "White Females 30 to 40"
-msgstr ""
+msgstr "Білі жінки 30-40 років"
 
 #: Form/form_us.xml.h:1173
 msgid "White Females 40 to 50"
-msgstr ""
+msgstr "Білі жінки 40-50 років"
 
 #: Form/form_us.xml.h:1174
 msgid "White Females 50 to 60"
-msgstr ""
+msgstr "Білі жінки 50-60 років"
 
 #: Form/form_us.xml.h:1175
 msgid "White Females 60 to 70"
-msgstr ""
+msgstr "Білі жінки 60-70 років"
 
 #: Form/form_us.xml.h:1176
 msgid "White Females 70 to 80"
-msgstr ""
+msgstr "Білі жінки 70-80 років"
 
 #: Form/form_us.xml.h:1177
 msgid "White Females 80 to 90"
-msgstr ""
+msgstr "Білі жінки 80-90 років"
 
 #: Form/form_us.xml.h:1178
 msgid "White Females Over 90"
-msgstr ""
+msgstr "Білі жінки старші 90 років"
 
 #: Form/form_us.xml.h:1179
 msgid "Male Negroes and Mulattoes"
-msgstr ""
+msgstr "Чорношкірі чоловіки та мулати"
 
 #: Form/form_us.xml.h:1180
 msgid "Female Negroes and Mulattoes"
-msgstr ""
+msgstr "Чорношкірі жінки та мулатки"
 
 #: Form/form_us.xml.h:1182 Form/form_us.xml.h:1212
 msgid "Militia"
-msgstr ""
+msgstr "Міліція"
 
 #: Form/form_us.xml.h:1183
 msgid "Manufactories of All Kinds"
-msgstr ""
+msgstr "Виробництва всіх типів"
 
 #: Form/form_us.xml.h:1184
 msgid "Value of products of manufactories"
-msgstr ""
+msgstr "Вартість продукції виробництв"
 
 #: Form/form_us.xml.h:1185
 msgid "Value of products of Coal Mines"
-msgstr ""
+msgstr "Вартість продукції вугільних шахт"
 
 #: Form/form_us.xml.h:1187
 msgid "Pounds of Wool"
-msgstr ""
+msgstr "Фунтів вовни"
 
 #: Form/form_us.xml.h:1188
 msgid "Number of Colleges"
-msgstr ""
+msgstr "Кількість коледжів"
 
 #: Form/form_us.xml.h:1189 Form/form_us.xml.h:1191
 msgid "Number of Pupils"
-msgstr ""
+msgstr "Кількість учнів"
 
 #: Form/form_us.xml.h:1190
 msgid "Number of Common Schools"
-msgstr ""
+msgstr "Кількість загальноосвітніх шкіл"
 
 #: Form/form_us.xml.h:1194
 msgid "Males over 21 years"
-msgstr ""
+msgstr "Чоловіки старші 21 року"
 
 #: Form/form_us.xml.h:1195
 msgid "Males under 21 years"
-msgstr ""
+msgstr "Чоловіки молодші 21 року"
 
 #: Form/form_us.xml.h:1197 Form/form_us.xml.h:1199
 msgid "Total number"
-msgstr ""
+msgstr "Загальна кількість"
 
 #: Form/form_us.xml.h:1205 Form/form_us.xml.h:1887 Form/form_us.xml.h:1911
 #: Form/form_us.xml.h:1938 Form/form_us.xml.h:2065 Form/form_us.xml.h:2101
 #: Form/form_us.xml.h:2139 Form/form_us.xml.h:2177 Form/form_us.xml.h:2215
 msgid "Widowed"
-msgstr ""
+msgstr "Вдівець/Вдова"
 
 #: Form/form_us.xml.h:1206
 msgid "Years resident in the state"
-msgstr ""
+msgstr "Кількість років проживання в штаті"
 
 #: Form/form_us.xml.h:1209
 msgid "Native voters"
-msgstr ""
+msgstr "Корінні виборці"
 
 #: Form/form_us.xml.h:1210
 msgid "Naturalized voters"
-msgstr ""
+msgstr "Натуралізовані виборці"
 
 #: Form/form_us.xml.h:1217
 msgid "Owners of land"
-msgstr ""
+msgstr "Власники землі"
 
 #: Form/form_us.xml.h:1218
 msgid "Paupers"
-msgstr ""
+msgstr "Бідняки"
 
 #: Form/form_us.xml.h:1219
 msgid "Acres of improved land"
-msgstr ""
+msgstr "Акри обробленої землі"
 
 #: Form/form_us.xml.h:1220
 msgid "Acres of unimproved land"
-msgstr ""
+msgstr "Акри необробленої землі"
 
 #: Form/form_us.xml.h:1221
 msgid "Acres in meadow"
-msgstr ""
+msgstr "Акри лук"
 
 #: Form/form_us.xml.h:1222
 msgid "Tons of hay"
-msgstr ""
+msgstr "Тонни сіна"
 
 #: Form/form_us.xml.h:1223
 msgid "Bushels of grass seed"
-msgstr ""
+msgstr "Бушелі насіння трав"
 
 #: Form/form_us.xml.h:1224
 msgid "Acres of spring wheat"
-msgstr ""
+msgstr "Акри ярої пшениці"
 
 #: Form/form_us.xml.h:1225
 msgid "Bushels harvested (spring wheat)"
-msgstr ""
+msgstr "Бушелі зібраної ярої пшениці"
 
 #: Form/form_us.xml.h:1226
 msgid "Acres of winter wheat"
-msgstr ""
+msgstr "Акри озимої пшениці"
 
 #: Form/form_us.xml.h:1227
 msgid "Bushels harvested (winter wheat)"
-msgstr ""
+msgstr "Бушелі зібраної озимої пшениці"
 
 #: Form/form_us.xml.h:1228
 msgid "Acres of oats"
-msgstr ""
+msgstr "Акри вівса"
 
 #: Form/form_us.xml.h:1229
 msgid "Bushels harvested (oats)"
-msgstr ""
+msgstr "Бушелі зібраного вівса"
 
 #: Form/form_us.xml.h:1230
 msgid "Acres of corn"
-msgstr ""
+msgstr "Акри кукурудзи"
 
 #: Form/form_us.xml.h:1231
 msgid "Bushels harvested (corn)"
-msgstr ""
+msgstr "Бушелі зібраної кукурудзи"
 
 #: Form/form_us.xml.h:1232
 msgid "Acres of potatoes"
-msgstr ""
+msgstr "Акри картоплі"
 
 #: Form/form_us.xml.h:1233
 msgid "Bushels harvested (potatoes)"
-msgstr ""
+msgstr "Бушелі зібраної картоплі"
 
 #: Form/form_us.xml.h:1234
 msgid "Number of hogs sold"
-msgstr ""
+msgstr "Кількість проданих свиней"
 
 #: Form/form_us.xml.h:1235
 msgid "Value of hogs sold"
-msgstr ""
+msgstr "Вартість проданих свиней"
 
 #: Form/form_us.xml.h:1236
 msgid "Number of cattle sold"
-msgstr ""
+msgstr "Кількість проданої худоби"
 
 #: Form/form_us.xml.h:1237
 msgid "Value of cattle sold"
-msgstr ""
+msgstr "Вартість проданої худоби"
 
 #: Form/form_us.xml.h:1238
 msgid "Pounds of butter manufactured"
-msgstr ""
+msgstr "Фунти виробленого масла"
 
 #: Form/form_us.xml.h:1239
 msgid "Pounds of cheese"
-msgstr ""
+msgstr "Фунти сиру"
 
 #: Form/form_us.xml.h:1240
 msgid "Pounds of wool"
-msgstr ""
+msgstr "Фунти вовни"
 
 #: Form/form_us.xml.h:1241
 msgid "Value of domestic manufactures"
-msgstr ""
+msgstr "Вартість домашнього виробництва"
 
 #: Form/form_us.xml.h:1242
 msgid "Value of general manufactures"
-msgstr ""
+msgstr "Вартість загального виробництва"
 
 #: Form/form_us.xml.h:1245 Form/form_us.xml.h:1274 Form/form_us.xml.h:1622
 #: Form/form_us.xml.h:1873
 msgid "Town of"
-msgstr ""
+msgstr "Місто"
 
 #: Form/form_us.xml.h:1246 Form/form_us.xml.h:1273 Form/form_us.xml.h:1874
 #: Form/form_us.xml.h:1961
 msgid "City of"
-msgstr ""
+msgstr "Місто"
 
 #: Form/form_us.xml.h:1247 Form/form_us.xml.h:1275 Form/form_us.xml.h:1876
 msgid "Township of"
-msgstr ""
+msgstr "Поселення"
 
 #: Form/form_us.xml.h:1253
 msgid "Street and Number"
-msgstr ""
+msgstr "Вулиця та номер будинку"
 
 #: Form/form_us.xml.h:1259
 msgid "Place of birth, county"
-msgstr ""
+msgstr "Місце народження, округ"
 
 #: Form/form_us.xml.h:1260
 msgid "Place of birth, state or territory"
-msgstr ""
+msgstr "Місце народження, штат або територія"
 
 #: Form/form_us.xml.h:1261
 msgid "Place of birth, country"
-msgstr ""
+msgstr "Місце народження, країна"
 
 #: Form/form_us.xml.h:1262
 msgid "Father (N, Native; F, Foreign)"
-msgstr ""
+msgstr "Батько (N, місцевий; F, іноземець)"
 
 #: Form/form_us.xml.h:1263
 msgid "Mother (N, Native; F, Foreign)"
-msgstr ""
+msgstr "Мати (N, місцева; F, іноземка)"
 
 #: Form/form_us.xml.h:1264 Form/form_us.xml.h:1292
 msgid "Subject to military duty"
-msgstr ""
+msgstr "Підлягає військовій службі"
 
 #: Form/form_us.xml.h:1265 Form/form_us.xml.h:1293
 msgid "Entitled to vote"
-msgstr ""
+msgstr "Має право голосу"
 
 #: Form/form_us.xml.h:1266
 msgid "Alien who has taken out first papers"
-msgstr ""
+msgstr "Іноземець, який отримав перші документи"
 
 #: Form/form_us.xml.h:1267
 msgid "Alien who has not taken out first papers"
-msgstr ""
+msgstr "Іноземець, який не отримав перші документи"
 
 #: Form/form_us.xml.h:1268
 msgid "Over 10 and cannot read or write"
-msgstr ""
+msgstr "Старший 10 років і не вміє читати або писати"
 
 #: Form/form_us.xml.h:1269
 msgid "Over 10 and can read but not write"
-msgstr ""
+msgstr "Старший 10 років, може читати, але не писати"
 
 #: Form/form_us.xml.h:1270
 msgid "Deaf and dumb, blind, insane, or idiotic"
-msgstr ""
+msgstr "Глухонімий, сліпий, душевнохворий або недоумкуватий"
 
 #: Form/form_us.xml.h:1278
 msgid "Age 18 or older"
-msgstr ""
+msgstr "Вік 18 або більше років"
 
 #: Form/form_us.xml.h:1279
 msgid "Age 5 to 18"
-msgstr ""
+msgstr "Вік від 5 до 18 років"
 
 #: Form/form_us.xml.h:1280
 msgid "Age under 5"
-msgstr ""
+msgstr "Вік менше 5 років"
 
 #: Form/form_us.xml.h:1281
 msgid "White Male"
-msgstr ""
+msgstr "Білий чоловік"
 
 #: Form/form_us.xml.h:1282
 msgid "White Female"
-msgstr ""
+msgstr "Біла жінка"
 
 #: Form/form_us.xml.h:1283
 msgid "Colored Male"
-msgstr ""
+msgstr "Темношкірий чоловік"
 
 #: Form/form_us.xml.h:1284
 msgid "Colored Female"
-msgstr ""
+msgstr "Темношкіра жінка"
 
 #: Form/form_us.xml.h:1286
 msgid "Single, Widowed, or Divorced"
-msgstr ""
+msgstr "Неодружений, вдівець або розлучений"
 
 #: Form/form_us.xml.h:1288
 msgid "Father (N,Native; F,Foreign)"
-msgstr ""
+msgstr "Батько (N, місцевий; F, іноземець)"
 
 #: Form/form_us.xml.h:1289
 msgid "Mother (N,Native; F,Foreign)"
-msgstr ""
+msgstr "Мати (N, місцева; F, іноземка)"
 
 #: Form/form_us.xml.h:1291
 msgid "Religious belief"
-msgstr ""
+msgstr "Релігійні переконання"
 
 #: Form/form_us.xml.h:1294
 msgid "Can read but not write, over 10 years old"
-msgstr ""
+msgstr "Може читати, але не писати, старший 10 років"
 
 #: Form/form_us.xml.h:1295
 msgid "Cannot read or write, over 10 years old"
-msgstr ""
+msgstr "Не може читати або писати, старший 10 років"
 
 #: Form/form_us.xml.h:1296
 msgid "Children over 6 and under 17 not attending school in 1894"
-msgstr ""
+msgstr "Діти старше 6 і молодше 17 років, які не відвідували школу у 1894 році"
 
 #: Form/form_us.xml.h:1298
 msgid "Births in 1894"
-msgstr ""
+msgstr "Народження у 1894 році"
 
 #: Form/form_us.xml.h:1299
 msgid "Deaths in 1894"
-msgstr ""
+msgstr "Смерті у 1894 році"
 
 #: Form/form_us.xml.h:1300
 msgid "Deaf and dumb not in State School for Deaf"
-msgstr ""
+msgstr "Глухонімі, які не перебувають у державній школі для глухих"
 
 #: Form/form_us.xml.h:1301
 msgid "Blind not in State College for Blind"
-msgstr ""
+msgstr "Сліпі, які не перебувають у державному коледжі для сліпих"
 
 #: Form/form_us.xml.h:1302
 msgid "Insane not in State Hospital for Insane"
-msgstr ""
+msgstr "Душевнохворі, які не перебувають у державній лікарні для душевнохворих"
 
 #: Form/form_us.xml.h:1303
 msgid "Company if in Civil War"
-msgstr ""
+msgstr "Рота, якщо брав участь у Громадянській війні"
 
 #: Form/form_us.xml.h:1304
 msgid "Regiment if in Civil War"
-msgstr ""
+msgstr "Полк, якщо брав участь у Громадянській війні"
 
 #: Form/form_us.xml.h:1305
 msgid "State if in Civil War"
-msgstr ""
+msgstr "Штат, якщо брав участь у Громадянській війні"
 
 #: Form/form_us.xml.h:1306
 msgid "Arm of service and rank if in Civil War"
-msgstr ""
+msgstr "Рід військ і звання, якщо брав участь у Громадянській війні"
 
 #: Form/form_us.xml.h:1307
 msgid "Regiment if in Mexican War"
-msgstr ""
+msgstr "Полк, якщо брав участь у Мексиканській війні"
 
 #: Form/form_us.xml.h:1308
 msgid "State if in Mexican War"
-msgstr ""
+msgstr "Штат, якщо брав участь у Мексиканській війні"
 
 #: Form/form_us.xml.h:1309 Form/form_us.xml.h:1376 Form/form_us.xml.h:2038
 #: Form/form_us.xml.h:2075 Form/form_us.xml.h:2112 Form/form_us.xml.h:2150
 #: Form/form_us.xml.h:2188
 msgid "Card No."
-msgstr ""
+msgstr "Номер картки"
 
 #: Form/form_us.xml.h:1316
 msgid "P.O. Address"
-msgstr ""
+msgstr "Поштова адреса"
 
 #: Form/form_us.xml.h:1317
 msgid "P. O. Address"
-msgstr ""
+msgstr "Поштова адреса"
 
 #: Form/form_us.xml.h:1321
 msgid "Can you read?"
-msgstr ""
+msgstr "Чи вмієте ви читати?"
 
 #: Form/form_us.xml.h:1323
 msgid "Can you write?"
-msgstr ""
+msgstr "Чи вмієте ви писати?"
 
 #: Form/form_us.xml.h:1325
 msgid "Color, White-Black-Yellow-Red"
-msgstr ""
+msgstr "Колір: білий-чорний-жовтий-червоний"
 
 #: Form/form_us.xml.h:1328
 msgid "Place of Birth-Self"
-msgstr ""
+msgstr "Місце народження (особа)"
 
 #: Form/form_us.xml.h:1329
 msgid "Place of birth, Self"
-msgstr ""
+msgstr "Місце народження (особа)"
 
 #: Form/form_us.xml.h:1330
 msgid "Place of Birth-Mother"
-msgstr ""
+msgstr "Місце народження матері"
 
 #: Form/form_us.xml.h:1331
 msgid "Place of birth, Mother"
-msgstr ""
+msgstr "Місце народження матері"
 
 #: Form/form_us.xml.h:1332
 msgid "Place of Birth-Father"
-msgstr ""
+msgstr "Місце народження батька"
 
 #: Form/form_us.xml.h:1333
 msgid "Place of birth, Father"
-msgstr ""
+msgstr "Місце народження батька"
 
 #: Form/form_us.xml.h:1334
 msgid "Own home or farm"
-msgstr ""
+msgstr "Власний будинок чи ферма"
 
 #: Form/form_us.xml.h:1335
 msgid "Do you own your home or farm?"
-msgstr ""
+msgstr "Чи володієте ви своїм будинком або фермою?"
 
 #: Form/form_us.xml.h:1336
 msgid "Value of home or farm"
-msgstr ""
+msgstr "Вартість будинку чи ферми"
 
 #: Form/form_us.xml.h:1337
 msgid "Entire value of home or farm?"
-msgstr ""
+msgstr "Повна вартість будинку чи ферми?"
 
 #: Form/form_us.xml.h:1338
 msgid "How much incumberance on home or farm"
-msgstr ""
+msgstr "Який борг на будинок чи ферму"
 
 #: Form/form_us.xml.h:1339
 msgid "How much incumberance on your home or farm?"
-msgstr ""
+msgstr "Який борг на ваш будинок чи ферму?"
 
 #: Form/form_us.xml.h:1340
 msgid "If foreign born, are you naturalized"
-msgstr ""
+msgstr "Якщо народжені за кордоном, чи натуралізовані ви?"
 
 #: Form/form_us.xml.h:1341
 msgid "If you are foreign born, are you naturalized?"
-msgstr ""
+msgstr "кщо ви народжені за кордоном, чи натуралізовані ви?"
 
 #: Form/form_us.xml.h:1342 Form/form_us.xml.h:1343 Form/form_us.xml.h:1421
 #: Form/form_us.xml.h:2110 Form/form_us.xml.h:2148 Form/form_us.xml.h:2186
 #: Form/form_us.xml.h:2224
 msgid "Years in U.S."
-msgstr ""
+msgstr "Роки в США"
 
 #: Form/form_us.xml.h:1344 Form/form_us.xml.h:1422 Form/form_us.xml.h:1440
 msgid "Years in Iowa"
-msgstr ""
+msgstr "Роки в Айові"
 
 #: Form/form_us.xml.h:1345
 msgid "Years in Iowa>"
-msgstr ""
+msgstr "Роки в Айові>"
 
 #: Form/form_us.xml.h:1347
 msgid "Conjugal condition; Single-Married-Widowed-Divorced-Separated"
 msgstr ""
+"Сімейний стан: неодружений-одружений-вдівець-розлучений-розлучений офіційно"
 
 #: Form/form_us.xml.h:1348
 msgid "Months in school in 1904-Public"
-msgstr ""
+msgstr "Місяці навчання у 1904 році (державна школа)"
 
 #: Form/form_us.xml.h:1349
 msgid "Months in school in 1904; Public"
-msgstr ""
+msgstr "Місяці навчання у 1904 році (державна школа)"
 
 #: Form/form_us.xml.h:1350
 msgid "Months in school in 1904-High"
-msgstr ""
+msgstr "Місяці навчання у 1904 році (середня школа)"
 
 #: Form/form_us.xml.h:1351
 msgid "Months in school in 1904; High"
-msgstr ""
+msgstr "Місяці навчання у 1904 році (середня школа)"
 
 #: Form/form_us.xml.h:1352
 msgid "Months in school in 1904-Private"
-msgstr ""
+msgstr "Місяці навчання у 1904 році (приватна школа)"
 
 #: Form/form_us.xml.h:1353
 msgid "Months in school in 1904; Private"
-msgstr ""
+msgstr "Місяці навчання у 1904 році (приватна школа)"
 
 #: Form/form_us.xml.h:1354
 msgid "Months in school in 1904-College"
-msgstr ""
+msgstr "Місяці навчання у 1904 році (коледж)"
 
 #: Form/form_us.xml.h:1355
 msgid "Months in school in 1904; College"
-msgstr ""
+msgstr "Місяці навчання у 1904 році (коледж)"
 
 #: Form/form_us.xml.h:1358 Form/form_us.xml.h:1359
 msgid "Months unemployed in 1904"
-msgstr ""
+msgstr "Місяці безробіття у 1904 році"
 
 #: Form/form_us.xml.h:1360
 msgid "Military-Service in which war"
-msgstr ""
+msgstr "Військова служба (в якій війні)"
 
 #: Form/form_us.xml.h:1361
 msgid "Military Service in; Civil War-Mexican War-Spanish War"
 msgstr ""
+"Військова служба: Громадянська війна-Мексиканська війна-Іспано-американська "
+"війна"
 
 #: Form/form_us.xml.h:1362
 msgid "Military-Company"
-msgstr ""
+msgstr "Військова рота"
 
 #: Form/form_us.xml.h:1363
 msgid "Military Service; Company"
-msgstr ""
+msgstr "Військова служба: рота"
 
 #: Form/form_us.xml.h:1364
 msgid "Military-Regiment"
-msgstr ""
+msgstr "Військовий полк"
 
 #: Form/form_us.xml.h:1365
 msgid "Military Service; Regiment"
-msgstr ""
+msgstr "Військова служба: полк"
 
 #: Form/form_us.xml.h:1366
 msgid "Military-State"
-msgstr ""
+msgstr "Військовий штат"
 
 #: Form/form_us.xml.h:1367
 msgid "Military Service; State"
-msgstr ""
+msgstr "Військова служба: штат"
 
 #: Form/form_us.xml.h:1368
 msgid "Military-Class of service"
-msgstr ""
+msgstr "Рід військової служби"
 
 #: Form/form_us.xml.h:1369
 msgid "Military Service; Class of service; Cavalry-Infantry-Artillery-Navy"
-msgstr ""
+msgstr "Військова служба: рід військ (кавалерія-піхота-артилерія-флот)"
 
 #: Form/form_us.xml.h:1370
 msgid "Military-Date of enlistment"
-msgstr ""
+msgstr "Дата вступу на службу"
 
 #: Form/form_us.xml.h:1371
 msgid "Military Service; Date of enlistment"
-msgstr ""
+msgstr "Військова служба: дата вступу"
 
 #: Form/form_us.xml.h:1372
 msgid "Military-Date of discharge"
-msgstr ""
+msgstr "Дата звільнення"
 
 #: Form/form_us.xml.h:1373
 msgid "Military Service; Date of discharge"
-msgstr ""
+msgstr "Військова служба: дата звільнення"
 
 #: Form/form_us.xml.h:1374
 msgid "Military-Remarks"
-msgstr ""
+msgstr "Примітки до військової служби"
 
 #: Form/form_us.xml.h:1375
 msgid "Military Service; Remarks"
-msgstr ""
+msgstr "Військова служба: примітки"
 
 #: Form/form_us.xml.h:1381 Form/form_us.xml.h:2080 Form/form_us.xml.h:2117
 #: Form/form_us.xml.h:2155 Form/form_us.xml.h:2193
 msgid "Town or Township"
-msgstr ""
+msgstr "Місто або поселення"
 
 #: Form/form_us.xml.h:1384
 msgid "Months in 1914 Unemployed"
-msgstr ""
+msgstr "Місяці безробіття у 1914 році"
 
 #: Form/form_us.xml.h:1385
 msgid "Earnings for 1914 from occupation"
-msgstr ""
+msgstr "Дохід у 1914 році від роботи"
 
 #: Form/form_us.xml.h:1386
 msgid "Extent of Education Common"
-msgstr ""
+msgstr "Рівень освіти: загальна освіта"
 
 #: Form/form_us.xml.h:1387
 msgid "Extent of Education Grammar"
-msgstr ""
+msgstr "Рівень освіти: граматична школа"
 
 #: Form/form_us.xml.h:1388
 msgid "Extent of Education High School"
-msgstr ""
+msgstr "Рівень освіти: середня школа"
 
 #: Form/form_us.xml.h:1389
 msgid "Extent of Education College"
-msgstr ""
+msgstr "Рівень освіти: коледж"
 
 #: Form/form_us.xml.h:1390 Form/form_us.xml.h:1642 Form/form_us.xml.h:1686
 #: Form/form_us.xml.h:2052 Form/form_us.xml.h:2084 Form/form_us.xml.h:2121
@@ -15275,484 +15288,484 @@ msgstr ""
 #: Form/form_us.xml.h:2448 Form/form_us.xml.h:2470 Form/form_gb.xml.h:246
 #: Form/form_gb.xml.h:381
 msgid "Birthplace"
-msgstr ""
+msgstr "Місце народження"
 
 #: Form/form_us.xml.h:1391
 msgid "Own house or farm"
-msgstr ""
+msgstr "Власний будинок або ферма"
 
 #: Form/form_us.xml.h:1392
 msgid "Incumbrance on farm or home"
-msgstr ""
+msgstr "Борг на ферму або будинок"
 
 #: Form/form_us.xml.h:1393
 msgid "Value of farm or home"
-msgstr ""
+msgstr "Вартість ферми або будинку"
 
 #: Form/form_us.xml.h:1394
 msgid "Military Service: Civil War"
-msgstr ""
+msgstr "Військова служба: Громадянська війна"
 
 #: Form/form_us.xml.h:1395
 msgid "Military Service: Mexican"
-msgstr ""
+msgstr "Військова служба: Мексиканська війна"
 
 #: Form/form_us.xml.h:1396
 msgid "Military Service: Spanish"
-msgstr ""
+msgstr "Військова служба: Іспано-американська війна"
 
 #: Form/form_us.xml.h:1397
 msgid "Military Service: Infantry"
-msgstr ""
+msgstr "Військова служба: піхота"
 
 #: Form/form_us.xml.h:1398
 msgid "Military Service: Cavalry"
-msgstr ""
+msgstr "Військова служба: кавалерія"
 
 #: Form/form_us.xml.h:1399
 msgid "Military Service: Artillery"
-msgstr ""
+msgstr "Військова служба: артилерія"
 
 #: Form/form_us.xml.h:1400
 msgid "Military Service: Navy"
-msgstr ""
+msgstr "Військова служба: військово-морський флот"
 
 #: Form/form_us.xml.h:1401
 msgid "Military Service: State"
-msgstr ""
+msgstr "Військова служба: штат"
 
 #: Form/form_us.xml.h:1402
 msgid "Military Service: Regiment"
-msgstr ""
+msgstr "Військова служба: полк"
 
 #: Form/form_us.xml.h:1403
 msgid "Military Service: Company"
-msgstr ""
+msgstr "Військова служба: рота"
 
 #: Form/form_us.xml.h:1404
 msgid "Church Affiliation"
-msgstr ""
+msgstr "Церковна приналежність"
 
 #: Form/form_us.xml.h:1405 Form/form_us.xml.h:2450 Form/form_us.xml.h:2473
 msgid "Father's Birthplace"
-msgstr ""
+msgstr "Місце народження батька"
 
 #: Form/form_us.xml.h:1406 Form/form_us.xml.h:2452 Form/form_us.xml.h:2475
 msgid "Mother's Birthplace"
-msgstr ""
+msgstr "Місце народження матері"
 
 #: Form/form_us.xml.h:1410
 msgid "Months in School 1914: Public"
-msgstr ""
+msgstr "Місяці навчання у 1914 році (державна школа)"
 
 #: Form/form_us.xml.h:1411
 msgid "Months in School 1914: High"
-msgstr ""
+msgstr "Місяці навчання у 1914 році (середня школа)"
 
 #: Form/form_us.xml.h:1412
 msgid "Months in School 1914: Private"
-msgstr ""
+msgstr "Місяці навчання у 1914 році (приватна школа)"
 
 #: Form/form_us.xml.h:1413
 msgid "Months in School 1914: College"
-msgstr ""
+msgstr "Місяці навчання у 1914 році (коледж)"
 
 #: Form/form_us.xml.h:1417 Form/form_us.xml.h:2072 Form/form_us.xml.h:2106
 #: Form/form_us.xml.h:2144 Form/form_us.xml.h:2182 Form/form_us.xml.h:2220
 msgid "Deaf"
-msgstr ""
+msgstr "Глухий"
 
 #: Form/form_us.xml.h:1419 Form/form_us.xml.h:2108 Form/form_us.xml.h:2146
 #: Form/form_us.xml.h:2184 Form/form_us.xml.h:2222
 msgid "Idiot"
-msgstr ""
+msgstr "Недоумкуватий"
 
 #: Form/form_us.xml.h:1420
 msgid "Naturalized if foreign born?"
-msgstr ""
+msgstr "Натуралізований, якщо народжений за кордоном?"
 
 #: Form/form_us.xml.h:1426 Form/form_pl.xml.h:24
 msgid "House Number"
-msgstr ""
+msgstr "Номер будинку"
 
 #: Form/form_us.xml.h:1429 Form/form_us.xml.h:2332
 msgid "Color or Race"
-msgstr ""
+msgstr "Колір або раса"
 
 #: Form/form_us.xml.h:1432
 msgid "Home Owned or Rented"
-msgstr ""
+msgstr "Будинок у власності або орендований"
 
 #: Form/form_us.xml.h:1433
 msgid "Home Owned Free or Mortgaged"
-msgstr ""
+msgstr "Будинок у власності без боргу чи під іпотекою"
 
 #: Form/form_us.xml.h:1434
 msgid "Home Value"
-msgstr ""
+msgstr "Вартість будинку"
 
 #: Form/form_us.xml.h:1435
 msgid "Mortgage Debt"
-msgstr ""
+msgstr "Іпотечний борг"
 
 #: Form/form_us.xml.h:1436
 msgid "Monthly Rent"
-msgstr ""
+msgstr "Щомісячна орендна плата"
 
 #: Form/form_us.xml.h:1437
 msgid "Insurance on Home"
-msgstr ""
+msgstr "Страхування будинку"
 
 #: Form/form_us.xml.h:1439
 msgid "Years in US"
-msgstr ""
+msgstr "Роки у США"
 
 #: Form/form_us.xml.h:1441
 msgid "Attended Rural School"
-msgstr ""
+msgstr "Відвідував сільську школу"
 
 #: Form/form_us.xml.h:1442
 msgid "Attended Grade School"
-msgstr ""
+msgstr "Відвідував початкову школу"
 
 #: Form/form_us.xml.h:1443
 msgid "Attended High School"
-msgstr ""
+msgstr "Відвідував середню школу"
 
 #: Form/form_us.xml.h:1444
 msgid "Attended College"
-msgstr ""
+msgstr "Відвідував коледж"
 
 #: Form/form_us.xml.h:1445
 msgid "Highest Grade Rural School"
-msgstr ""
+msgstr "Найвищий клас у сільській школі"
 
 #: Form/form_us.xml.h:1446
 msgid "Highest Grade Grammar School"
-msgstr ""
+msgstr "Найвищий клас у граматичній школі"
 
 #: Form/form_us.xml.h:1447
 msgid "Highest Grade High School"
-msgstr ""
+msgstr "Найвищий клас у середній школі"
 
 #: Form/form_us.xml.h:1448
 msgid "No. Years College"
-msgstr ""
+msgstr "Кількість років у коледжі"
 
 #: Form/form_us.xml.h:1449
 msgid "Months in School 1924"
-msgstr ""
+msgstr "Місяці навчання у 1924 році"
 
 #: Form/form_us.xml.h:1450
 msgid "Able to Read"
-msgstr ""
+msgstr "Вміє читати"
 
 #: Form/form_us.xml.h:1451
 msgid "Able to Write"
-msgstr ""
+msgstr "Вміє писати"
 
 #: Form/form_us.xml.h:1453 Form/form_us.xml.h:2449 Form/form_us.xml.h:2472
 #: Form/form_us.xml.h:2498 Form/form_pl.xml.h:9 Form/form_pl.xml.h:26
 #: Form/form_pl.xml.h:37
 msgid "Father's Name"
-msgstr ""
+msgstr "Ім'я батька"
 
 #: Form/form_us.xml.h:1454
 msgid "Father's Place of Birth"
-msgstr ""
+msgstr "Місце народження батька"
 
 #: Form/form_us.xml.h:1456 Form/form_us.xml.h:2451 Form/form_us.xml.h:2474
 #: Form/form_us.xml.h:2499 Form/form_pl.xml.h:10 Form/form_pl.xml.h:27
 #: Form/form_pl.xml.h:38
 msgid "Mother's Name"
-msgstr ""
+msgstr "Ім'я матері"
 
 #: Form/form_us.xml.h:1457
 msgid "Mother's Place of Birth"
-msgstr ""
+msgstr "Місце народження матері"
 
 #: Form/form_us.xml.h:1459
 msgid "Parents Place of Marriage"
-msgstr ""
+msgstr "Місце одруження батьків"
 
 #: Form/form_us.xml.h:1460
 msgid "Civil War Veteran"
-msgstr ""
+msgstr "Ветеран Громадянської війни"
 
 #: Form/form_us.xml.h:1461
 msgid "Civil War Service Branch"
-msgstr ""
+msgstr "Рід військ у Громадянській війні"
 
 #: Form/form_us.xml.h:1462
 msgid "Civil War State"
-msgstr ""
+msgstr "Штат під час Громадянської війни"
 
 #: Form/form_us.xml.h:1463
 msgid "Spanish-American War Veteran"
-msgstr ""
+msgstr "Ветеран Іспано-американської війни"
 
 #: Form/form_us.xml.h:1464
 msgid "Spanish-American War Service Branch"
-msgstr ""
+msgstr "Рід військ в Іспано-американській війні"
 
 #: Form/form_us.xml.h:1465
 msgid "Spanish-American War State"
-msgstr ""
+msgstr "Штат під час Іспано-американської війни"
 
 #: Form/form_us.xml.h:1466
 msgid "World War Veteran"
-msgstr ""
+msgstr "Ветеран Світової війни"
 
 #: Form/form_us.xml.h:1467
 msgid "World War Service Branch"
-msgstr ""
+msgstr "Рід військ у Світовій війні"
 
 #: Form/form_us.xml.h:1468
 msgid "World War State"
-msgstr ""
+msgstr "Штат під час Світової війни"
 
 #: Form/form_us.xml.h:1469
 msgid "Agricultural Pursuits"
-msgstr ""
+msgstr "Сільськогосподарська діяльність"
 
 #: Form/form_us.xml.h:1470
 msgid "Professional Services"
-msgstr ""
+msgstr "Професійні послуги"
 
 #: Form/form_us.xml.h:1471
 msgid "Domestic/Personal Services"
-msgstr ""
+msgstr "Домашні/персональні послуги"
 
 #: Form/form_us.xml.h:1472
 msgid "Trade and Transportation"
-msgstr ""
+msgstr "Торгівля та транспорт"
 
 #: Form/form_us.xml.h:1473
 msgid "Manufacturing and Mechanical"
-msgstr ""
+msgstr "Виробництво та механічна робота"
 
 #: Form/form_us.xml.h:1474
 msgid "Unclassified Laborer"
-msgstr ""
+msgstr "Некваліфікований робітник"
 
 #: Form/form_us.xml.h:1475
 msgid "Months unemployed due to illness"
-msgstr ""
+msgstr "Місяці безробіття через хворобу"
 
 #: Form/form_us.xml.h:1476
 msgid "Income lost due to illness"
-msgstr ""
+msgstr "Втрачений дохід через хворобу"
 
 #: Form/form_us.xml.h:1477
 msgid "Months unemployed"
-msgstr ""
+msgstr "Місяці безробіття"
 
 #: Form/form_us.xml.h:1479
 msgid "Free Inhabitants in"
-msgstr ""
+msgstr "Вільні жителі в"
 
 #: Form/form_us.xml.h:1488 Form/form_us.xml.h:1535 Form/form_us.xml.h:2092
 #: Form/form_us.xml.h:2130 Form/form_us.xml.h:2168 Form/form_us.xml.h:2206
 msgid "Regiment"
-msgstr ""
+msgstr "Полк"
 
 #: Form/form_us.xml.h:1491 Form/form_us.xml.h:1503
 msgid "Real Estate"
-msgstr ""
+msgstr "Нерухомість"
 
 #: Form/form_us.xml.h:1492
 msgid "Personal Estate"
-msgstr ""
+msgstr "Особисте майно"
 
 #: Form/form_us.xml.h:1495
 msgid "Attended School"
-msgstr ""
+msgstr "Відвідував школу"
 
 #: Form/form_us.xml.h:1496
 msgid "Illiterate"
-msgstr ""
+msgstr "Неписьменний"
 
 #: Form/form_us.xml.h:1497 Form/form_gb.xml.h:439 Form/form_gb.xml.h:466
 #: Form/form_gb.xml.h:494 Form/form_gb.xml.h:531 Form/form_gb.xml.h:568
 msgid "Disabled"
-msgstr ""
+msgstr "Інвалід"
 
 #: Form/form_us.xml.h:1504
 msgid "Personal Property"
-msgstr ""
+msgstr "Особиста власність"
 
 #: Form/form_us.xml.h:1506 Form/form_us.xml.h:1526
 msgid "Where From"
-msgstr ""
+msgstr "Звідки"
 
 #: Form/form_us.xml.h:1507 Form/form_us.xml.h:1528
 msgid "School"
-msgstr ""
+msgstr "Школа"
 
 #: Form/form_us.xml.h:1508
 msgid "Cannot Read 10-15"
-msgstr ""
+msgstr "Не вміє читати (10-15 років)"
 
 #: Form/form_us.xml.h:1509
 msgid "Cannot Read 15-21"
-msgstr ""
+msgstr "Не вміє читати (15-21 років)"
 
 #: Form/form_us.xml.h:1510
 msgid "Cannot Read 21+"
-msgstr ""
+msgstr "Не вміє читати (21+ років)"
 
 #: Form/form_us.xml.h:1511
 msgid "Cannot Write 10-15"
-msgstr ""
+msgstr "Не вміє писати (10-15 років)"
 
 #: Form/form_us.xml.h:1512
 msgid "Cannot Write 15-21"
-msgstr ""
+msgstr "Не вміє писати (15-21 років)"
 
 #: Form/form_us.xml.h:1513
 msgid "Cannot Write 21+"
-msgstr ""
+msgstr "Не вміє писати (21+ років)"
 
 #: Form/form_us.xml.h:1514
 msgid "Cannot Read/Write 10-15"
-msgstr ""
+msgstr "Не вміє читати/писати (10-15 років)"
 
 #: Form/form_us.xml.h:1515
 msgid "Cannot Read/Write 15-21"
-msgstr ""
+msgstr "Не вміє читати/писати (15-21 років)"
 
 #: Form/form_us.xml.h:1516
 msgid "Cannot Read/Write 21+"
-msgstr ""
+msgstr "Не вміє читати/писати (21+ років)"
 
 #: Form/form_us.xml.h:1523
 msgid "Widow(er)"
-msgstr ""
+msgstr "Вдова(вдівець)"
 
 #: Form/form_us.xml.h:1527
 msgid "Learning"
-msgstr ""
+msgstr "Навчання"
 
 #: Form/form_us.xml.h:1529
 msgid "Illiteracy 10-15"
-msgstr ""
+msgstr "Неписьменність (10-15 років)"
 
 #: Form/form_us.xml.h:1530
 msgid "Illiteracy 15-21"
-msgstr ""
+msgstr "Неписьменність (15-21 років)"
 
 #: Form/form_us.xml.h:1531
 msgid "Illiteracy 21+"
-msgstr ""
+msgstr "Неписьменність (21+ років)"
 
 #: Form/form_us.xml.h:1532
 msgid "Honorably discharged"
-msgstr ""
+msgstr "Почесно звільнений"
 
 #: Form/form_us.xml.h:1533
 msgid "State Enlisted"
-msgstr ""
+msgstr "Штат, у якому був призваний"
 
 #: Form/form_us.xml.h:1536
 msgid "Arm of Service"
-msgstr ""
+msgstr "Рід військ"
 
 #: Form/form_us.xml.h:1537
 msgid "Prison"
-msgstr ""
+msgstr "В’язниця"
 
 #: Form/form_us.xml.h:1543
 msgid "Where from Kansas"
-msgstr ""
+msgstr "Звідки прибув до Канзасу"
 
 #: Form/form_us.xml.h:1545 Form/form_us.xml.h:1567 Form/form_us.xml.h:1589
 msgid "Trade or profession being learned"
-msgstr ""
+msgstr "Освоювана професія або ремесло"
 
 #: Form/form_us.xml.h:1547 Form/form_us.xml.h:1569 Form/form_us.xml.h:1591
 msgid "Illiterate and 10 to 15 years old"
-msgstr ""
+msgstr "Неписьменний у віці 10-15 років"
 
 #: Form/form_us.xml.h:1548
 msgid "Illiterate and 16 to 21 years old"
-msgstr ""
+msgstr "Неписьменний у віці 16-21 рік"
 
 #: Form/form_us.xml.h:1549 Form/form_us.xml.h:1571 Form/form_us.xml.h:1593
 msgid "Illiterate and over 21"
-msgstr ""
+msgstr "Неписьменний у віці понад 21 рік"
 
 #: Form/form_us.xml.h:1550 Form/form_us.xml.h:1572 Form/form_us.xml.h:1595
 msgid "Honorably discharged from military service"
-msgstr ""
+msgstr "Почесно звільнений з військової служби"
 
 #: Form/form_us.xml.h:1551 Form/form_us.xml.h:1573 Form/form_us.xml.h:1596
 msgid "State in which enlisted"
-msgstr ""
+msgstr "Штат, у якому був призваний"
 
 #: Form/form_us.xml.h:1552 Form/form_us.xml.h:1574 Form/form_us.xml.h:1597
 msgid "Company or command"
-msgstr ""
+msgstr "Рота або командування"
 
 #: Form/form_us.xml.h:1553 Form/form_us.xml.h:1575 Form/form_us.xml.h:1598
 msgid "Regiment or other organization"
-msgstr ""
+msgstr "Полк або інша військова частина"
 
 #: Form/form_us.xml.h:1554 Form/form_us.xml.h:1576 Form/form_us.xml.h:1599
 msgid "Arm of service"
-msgstr ""
+msgstr "Рід військ"
 
 #: Form/form_us.xml.h:1555 Form/form_us.xml.h:1577 Form/form_us.xml.h:1600
 msgid "Prison in which confined as a prisoner of war"
-msgstr ""
+msgstr "В’язниця, у якій перебував як військовополонений"
 
 #: Form/form_us.xml.h:1558 Form/form_us.xml.h:1580 Form/form_us.xml.h:1606
 msgid "Home owned free or mortgaged"
-msgstr ""
+msgstr "Будинок у власності без боргу чи під іпотекою"
 
 #: Form/form_us.xml.h:1564 Form/form_us.xml.h:1586 Form/form_us.xml.h:1612
 msgid "Where from to Kansas"
-msgstr ""
+msgstr "Звідки прибув до Канзасу"
 
 #: Form/form_us.xml.h:1566 Form/form_us.xml.h:1588
 msgid "Number of months unemployed"
-msgstr ""
+msgstr "Кількість місяців безробіття"
 
 #: Form/form_us.xml.h:1570 Form/form_us.xml.h:1592
 msgid "Illiterate and 15 to 21 years old"
-msgstr ""
+msgstr "Неписьменний у віці 15-21 рік"
 
 #: Form/form_us.xml.h:1594
 msgid "Number of volumes in home library"
-msgstr ""
+msgstr "Кількість томів у домашній бібліотеці"
 
 #: Form/form_us.xml.h:1603
 msgid "Number of house"
-msgstr ""
+msgstr "Номер будинку"
 
 #: Form/form_us.xml.h:1613
 msgid "Year of immigration to the United States"
-msgstr ""
+msgstr "Рік імміграції до США"
 
 #: Form/form_us.xml.h:1614
 msgid "Naturalized, alien or first papers"
-msgstr ""
+msgstr "Натуралізований, іноземець або має лише перші документи"
 
 #: Form/form_us.xml.h:1618
 msgid "Attended school within year"
-msgstr ""
+msgstr "Відвідував школу протягом року"
 
 #: Form/form_us.xml.h:1628 Form/form_us.xml.h:1969 Form/form_us.xml.h:1988
 #: Form/form_us.xml.h:2008
 msgid "Nativity"
-msgstr ""
+msgstr "Походження"
 
 #: Form/form_us.xml.h:1629
 msgid "Father's Nativity"
-msgstr ""
+msgstr "Походження батька"
 
 #: Form/form_us.xml.h:1630
 msgid "Mother's Nativity"
-msgstr ""
+msgstr "Походження матері"
 
 #: Form/form_us.xml.h:1631 Form/form_us.xml.h:1645 Form/form_us.xml.h:2406
 #: Form/form_dk.xml.h:10 Form/form_dk.xml.h:27 Form/form_dk.xml.h:44
@@ -15771,954 +15784,954 @@ msgstr ""
 #: Form/form_gb.xml.h:461 Form/form_gb.xml.h:489 Form/form_gb.xml.h:521
 #: Form/form_gb.xml.h:560 Form/form_gb.xml.h:588 Form/form_gb.xml.h:616
 msgid "Condition"
-msgstr ""
+msgstr "Стан"
 
 #: Form/form_us.xml.h:1634 Form/form_us.xml.h:1649
 msgid "Inhabitants in"
-msgstr ""
+msgstr "Жителі у"
 
 #: Form/form_us.xml.h:1646
 msgid "Served in Federal army during rebellion"
-msgstr ""
+msgstr "Служив у федеральній армії під час заколоту"
 
 #: Form/form_us.xml.h:1658 Form/form_us.xml.h:1689
 msgid "Residence in State - Years"
-msgstr ""
+msgstr "Проживання в штаті - років"
 
 #: Form/form_us.xml.h:1659 Form/form_us.xml.h:1690
 msgid "Residence in State - Months"
-msgstr ""
+msgstr "Проживання в штаті - місяців"
 
 #: Form/form_us.xml.h:1660
 msgid "Residence in District - Years"
-msgstr ""
+msgstr "Проживання в окрузі - років"
 
 #: Form/form_us.xml.h:1661
 msgid "Residence in District - Months"
-msgstr ""
+msgstr "Проживання в окрузі - місяців"
 
 #: Form/form_us.xml.h:1663 Form/form_us.xml.h:2339
 msgid "Months Employed"
-msgstr ""
+msgstr "Місяці зайнятості"
 
 #: Form/form_us.xml.h:1664
 msgid "Solder/Sailor"
-msgstr ""
+msgstr "Солдат/моряк"
 
 #: Form/form_us.xml.h:1665
 msgid "Foreign father"
-msgstr ""
+msgstr "Батько-іноземець"
 
 #: Form/form_us.xml.h:1666
 msgid "Foreign mother"
-msgstr ""
+msgstr "Мати-іноземка"
 
 #: Form/form_us.xml.h:1669
 msgid "Organized Township"
-msgstr ""
+msgstr "Організований муніципалітет"
 
 #: Form/form_us.xml.h:1670
 msgid "Unorganized Township"
-msgstr ""
+msgstr "Неорганізований муніципалітет"
 
 #: Form/form_us.xml.h:1671
 msgid "Name of Village"
-msgstr ""
+msgstr "Назва села"
 
 #: Form/form_us.xml.h:1672
 msgid "Name of City"
-msgstr ""
+msgstr "Назва міста"
 
 #: Form/form_us.xml.h:1674
 msgid "Sub-division"
-msgstr ""
+msgstr "Підрозділ"
 
 #: Form/form_us.xml.h:1675
 msgid "Precincts"
-msgstr ""
+msgstr "Дільниці"
 
 #: Form/form_us.xml.h:1676
 msgid "Enumerated date from"
-msgstr ""
+msgstr "Дата перепису від"
 
 #: Form/form_us.xml.h:1677
 msgid "Enumerated date to"
-msgstr ""
+msgstr "Дата перепису до"
 
 #: Form/form_us.xml.h:1680
 msgid "Enumeration number"
-msgstr ""
+msgstr "Номер перепису"
 
 #: Form/form_us.xml.h:1687
 msgid "Fathers birthplace"
-msgstr ""
+msgstr "Місце народження батька"
 
 #: Form/form_us.xml.h:1688
 msgid "Mothers birthplace"
-msgstr ""
+msgstr "Місце народження матері"
 
 #: Form/form_us.xml.h:1691
 msgid "Residence in District - years"
-msgstr ""
+msgstr "Проживання в окрузі - років"
 
 #: Form/form_us.xml.h:1692
 msgid "Residence in District - months"
-msgstr ""
+msgstr "Проживання в окрузі - місяців"
 
 #: Form/form_us.xml.h:1694
 msgid "Army service"
-msgstr ""
+msgstr "Служба в армії"
 
 #: Form/form_us.xml.h:1695
 msgid "Wars"
-msgstr ""
+msgstr "Війни"
 
 #: Form/form_us.xml.h:1697 Form/form_us.xml.h:1770
 msgid "White males under 10"
-msgstr ""
+msgstr "Білі чоловіки до 10 років"
 
 #: Form/form_us.xml.h:1698 Form/form_us.xml.h:1771
 msgid "White males 10-17"
-msgstr ""
+msgstr "Білі чоловіки 10-17 років"
 
 #: Form/form_us.xml.h:1699 Form/form_us.xml.h:1772
 msgid "White males 18-20"
-msgstr ""
+msgstr "Білі чоловіки 18-20 років"
 
 #: Form/form_us.xml.h:1700 Form/form_us.xml.h:1773
 msgid "White males 21-44"
-msgstr ""
+msgstr "Білі чоловіки 21-44 років"
 
 #: Form/form_us.xml.h:1701 Form/form_us.xml.h:1774
 msgid "White males 45 and over"
-msgstr ""
+msgstr "Білі чоловіки 45 років і старше"
 
 #: Form/form_us.xml.h:1702 Form/form_us.xml.h:1775
 msgid "Total White Males"
-msgstr ""
+msgstr "Загальна кількість білих чоловіків"
 
 #: Form/form_us.xml.h:1703 Form/form_us.xml.h:1776
 msgid "White females under 10"
-msgstr ""
+msgstr "Білі жінки до 10 років"
 
 #: Form/form_us.xml.h:1704 Form/form_us.xml.h:1777
 msgid "White females 10-17"
-msgstr ""
+msgstr "Білі жінки 10-17 років"
 
 #: Form/form_us.xml.h:1705 Form/form_us.xml.h:1778
 msgid "White females 18-20"
-msgstr ""
+msgstr "Білі жінки 18-20 років"
 
 #: Form/form_us.xml.h:1706 Form/form_us.xml.h:1779
 msgid "White females 21-44"
-msgstr ""
+msgstr "Білі жінки 21-44 років"
 
 #: Form/form_us.xml.h:1707 Form/form_us.xml.h:1780
 msgid "White females 45 and over"
-msgstr ""
+msgstr "Білі жінки 45 років і старше"
 
 #: Form/form_us.xml.h:1708 Form/form_us.xml.h:1781
 msgid "Total White Females"
-msgstr ""
+msgstr "Загальна кількість білих жінок"
 
 #: Form/form_us.xml.h:1709 Form/form_us.xml.h:1782
 msgid "Total White Population"
-msgstr ""
+msgstr "Загальна біла популяція"
 
 #: Form/form_us.xml.h:1710 Form/form_us.xml.h:1783
 msgid "White persons between 6 and 18"
-msgstr ""
+msgstr "Білі особи віком від 6 до 18 років"
 
 #: Form/form_us.xml.h:1711 Form/form_us.xml.h:1784
 msgid "No. White persons who can read and write"
-msgstr ""
+msgstr "Кількість білих осіб, які вміють читати і писати"
 
 #: Form/form_us.xml.h:1712 Form/form_us.xml.h:1785
 msgid "Colored males under 10"
-msgstr ""
+msgstr "Темношкірі чоловіки молодші 10 років"
 
 #: Form/form_us.xml.h:1713 Form/form_us.xml.h:1786
 msgid "Colored males 10-17"
-msgstr ""
+msgstr "Темношкірі чоловіки 10-17 років"
 
 #: Form/form_us.xml.h:1714 Form/form_us.xml.h:1787
 msgid "Colored males 18-20"
-msgstr ""
+msgstr "Темношкірі чоловіки 18-20 років"
 
 #: Form/form_us.xml.h:1715 Form/form_us.xml.h:1788
 msgid "Colored males 21-44"
-msgstr ""
+msgstr "Темношкірі чоловіки 21-44 років"
 
 #: Form/form_us.xml.h:1716 Form/form_us.xml.h:1789
 msgid "Colored males 45 and over"
-msgstr ""
+msgstr "Темношкірі чоловіки 45 років і старші"
 
 #: Form/form_us.xml.h:1717 Form/form_us.xml.h:1790
 msgid "Total Colored Males"
-msgstr ""
+msgstr "Загальна кількість темношкірих чоловіків"
 
 #: Form/form_us.xml.h:1718 Form/form_us.xml.h:1791
 msgid "Colored females under 10"
-msgstr ""
+msgstr "Темношкірі жінки молодші 10 років"
 
 #: Form/form_us.xml.h:1719 Form/form_us.xml.h:1792
 msgid "Colored females 10-17"
-msgstr ""
+msgstr "Темношкірі жінки 10-17 років"
 
 #: Form/form_us.xml.h:1720 Form/form_us.xml.h:1793
 msgid "Colored females 18-20"
-msgstr ""
+msgstr "Темношкірі жінки 18-20 років"
 
 #: Form/form_us.xml.h:1721 Form/form_us.xml.h:1794
 msgid "Colored females 21-44"
-msgstr ""
+msgstr "Темношкірі жінки 21-44 років"
 
 #: Form/form_us.xml.h:1722 Form/form_us.xml.h:1795
 msgid "Colored females 45 and over"
-msgstr ""
+msgstr "Темношкірі жінки 45 років і старші"
 
 #: Form/form_us.xml.h:1723 Form/form_us.xml.h:1796
 msgid "Total Colored Females"
-msgstr ""
+msgstr "Загальна кількість темношкірих жінок"
 
 #: Form/form_us.xml.h:1724 Form/form_us.xml.h:1797
 msgid "Total Colored Population"
-msgstr ""
+msgstr "Загальна кількість темношкірого населення"
 
 #: Form/form_us.xml.h:1725 Form/form_us.xml.h:1798
 msgid "Colored persons between 6 and 18"
-msgstr ""
+msgstr "Темношкірі особи віком від 6 до 18 років"
 
 #: Form/form_us.xml.h:1726 Form/form_us.xml.h:1799
 msgid "No. Colored persons who can read and write"
-msgstr ""
+msgstr "Кількість темношкірих осіб, які вміють читати і писати"
 
 #: Form/form_us.xml.h:1727 Form/form_us.xml.h:1800
 msgid "Deaf and Dumb Males"
-msgstr ""
+msgstr "Глухонімі чоловіки"
 
 #: Form/form_us.xml.h:1728 Form/form_us.xml.h:1801
 msgid "Deaf and Dumb Males Age"
-msgstr ""
+msgstr "Вік глухонімих чоловіків"
 
 #: Form/form_us.xml.h:1729 Form/form_us.xml.h:1802
 msgid "Deaf and Dumb Females"
-msgstr ""
+msgstr "Глухонімі жінки"
 
 #: Form/form_us.xml.h:1730 Form/form_us.xml.h:1803
 msgid "Deaf and Dumb Females Age"
-msgstr ""
+msgstr "Вік глухонімих жінок"
 
 #: Form/form_us.xml.h:1731 Form/form_us.xml.h:1804
 msgid "Deaf and Dumb White"
-msgstr ""
+msgstr "Глухонімі білі"
 
 #: Form/form_us.xml.h:1732 Form/form_us.xml.h:1805
 msgid "Deaf and Dumb Colored"
-msgstr ""
+msgstr "Глухонімі темношкірі"
 
 #: Form/form_us.xml.h:1733 Form/form_us.xml.h:1806
 msgid "No. Deaf and Dumb taught to read and write"
-msgstr ""
+msgstr "Кількість глухонімих, які навчилися читати і писати"
 
 #: Form/form_us.xml.h:1734 Form/form_us.xml.h:1807
 msgid "Blind Males"
-msgstr ""
+msgstr "Сліпі чоловіки"
 
 #: Form/form_us.xml.h:1735 Form/form_us.xml.h:1808
 msgid "Blind Males Age"
-msgstr ""
+msgstr "Вік сліпих чоловіків"
 
 #: Form/form_us.xml.h:1736 Form/form_us.xml.h:1809
 msgid "Blind Females"
-msgstr ""
+msgstr "Сліпі жінки"
 
 #: Form/form_us.xml.h:1737 Form/form_us.xml.h:1810
 msgid "Blind Females Age"
-msgstr ""
+msgstr "Вік сліпих жінок"
 
 #: Form/form_us.xml.h:1738 Form/form_us.xml.h:1811
 msgid "Blind White"
-msgstr ""
+msgstr "Сліпі білі"
 
 #: Form/form_us.xml.h:1739 Form/form_us.xml.h:1812
 msgid "Blind Colored"
-msgstr ""
+msgstr "Сліпі темношкірі"
 
 #: Form/form_us.xml.h:1740 Form/form_us.xml.h:1813
 msgid "No. Blind taught to read and write"
-msgstr ""
+msgstr "Кількість сліпих, які навчилися читати і писати"
 
 #: Form/form_us.xml.h:1741 Form/form_us.xml.h:1814
 msgid "Insane Males"
-msgstr ""
+msgstr "Психічно хворі чоловіки"
 
 #: Form/form_us.xml.h:1742 Form/form_us.xml.h:1815
 msgid "Insane Males Age"
-msgstr ""
+msgstr "Вік психічно хворих чоловіків"
 
 #: Form/form_us.xml.h:1743 Form/form_us.xml.h:1816
 msgid "Insane Females"
-msgstr ""
+msgstr "Психічно хворі жінки"
 
 #: Form/form_us.xml.h:1744 Form/form_us.xml.h:1817
 msgid "Insane Females Age"
-msgstr ""
+msgstr "Вік психічно хворих жінок"
 
 #: Form/form_us.xml.h:1745 Form/form_us.xml.h:1818
 msgid "Insane White"
-msgstr ""
+msgstr "Психічно хворі білі"
 
 #: Form/form_us.xml.h:1746 Form/form_us.xml.h:1819
 msgid "Insane Colored"
-msgstr ""
+msgstr "Психічно хворі темношкірі"
 
 #: Form/form_us.xml.h:1747 Form/form_us.xml.h:1820
 msgid "No. Insane taught to read and write"
-msgstr ""
+msgstr "Кількість психічно хворих, які навчилися читати і писати"
 
 #: Form/form_us.xml.h:1748 Form/form_us.xml.h:1821
 msgid "Live Stock Horses"
-msgstr ""
+msgstr "Коней у господарстві"
 
 #: Form/form_us.xml.h:1749 Form/form_us.xml.h:1822
 msgid "Live Stock Mules"
-msgstr ""
+msgstr "Мулів у господарстві"
 
 #: Form/form_us.xml.h:1750 Form/form_us.xml.h:1823
 msgid "Live Stock Jacks"
-msgstr ""
+msgstr "Ослів-самців у господарстві"
 
 #: Form/form_us.xml.h:1751 Form/form_us.xml.h:1824
 msgid "Live Stock Jennies"
-msgstr ""
+msgstr "Ослів-самиць у господарстві"
 
 #: Form/form_us.xml.h:1752 Form/form_us.xml.h:1825
 msgid "Live Stock Cattle"
-msgstr ""
+msgstr "Велика рогата худоба у господарстві"
 
 #: Form/form_us.xml.h:1753 Form/form_us.xml.h:1826
 msgid "Live Stock Sheep"
-msgstr ""
+msgstr "Вівці у господарстві"
 
 #: Form/form_us.xml.h:1754 Form/form_us.xml.h:1827
 msgid "Live Stock Hogs"
-msgstr ""
+msgstr "Свині у господарстві"
 
 #: Form/form_us.xml.h:1755 Form/form_us.xml.h:1828
 msgid "Products Bushels Wheat"
-msgstr ""
+msgstr "Кількість бушелів пшениці"
 
 #: Form/form_us.xml.h:1756 Form/form_us.xml.h:1829
 msgid "Products Bushels Corn"
-msgstr ""
+msgstr "Кількість бушелів кукурудзи"
 
 #: Form/form_us.xml.h:1757 Form/form_us.xml.h:1830
 msgid "Products Bushels Oats"
-msgstr ""
+msgstr "Кількість бушелів вівса"
 
 #: Form/form_us.xml.h:1758 Form/form_us.xml.h:1831
 msgid "Products Bushels Barley"
-msgstr ""
+msgstr "Кількість бушелів ячменю"
 
 #: Form/form_us.xml.h:1759 Form/form_us.xml.h:1832
 msgid "Products Bushels Rye"
-msgstr ""
+msgstr "Кількість бушелів жита"
 
 #: Form/form_us.xml.h:1760 Form/form_us.xml.h:1833
 msgid "Products Lbs. Tobacco"
-msgstr ""
+msgstr "Кількість фунтів тютюну"
 
 #: Form/form_us.xml.h:1761 Form/form_us.xml.h:1834
 msgid "Products Lbs. Wool"
-msgstr ""
+msgstr "Кількість фунтів вовни"
 
 #: Form/form_us.xml.h:1762 Form/form_us.xml.h:1835
 msgid "Products Lbs. Sugar"
-msgstr ""
+msgstr "Кількість фунтів цукру"
 
 #: Form/form_us.xml.h:1763 Form/form_us.xml.h:1836
 msgid "Products Tons Hay"
-msgstr ""
+msgstr "Кількість тонн сіна"
 
 #: Form/form_us.xml.h:1764 Form/form_us.xml.h:1837
 msgid "Products Tons Hemp"
-msgstr ""
+msgstr "Кількість тонн конопель"
 
 #: Form/form_us.xml.h:1765 Form/form_us.xml.h:1838
 msgid "Products Galls. Whiskey"
-msgstr ""
+msgstr "Кількість галонів віскі"
 
 #: Form/form_us.xml.h:1766 Form/form_us.xml.h:1839
 msgid "Products Galls. Wine"
-msgstr ""
+msgstr "Кількість галонів вина"
 
 #: Form/form_us.xml.h:1767 Form/form_us.xml.h:1840
 msgid "Products Galls. Molasses"
-msgstr ""
+msgstr "Кількість галонів патоки"
 
 #: Form/form_us.xml.h:1768 Form/form_us.xml.h:1841
 msgid "Total Population"
-msgstr ""
+msgstr "Загальна чисельність населення"
 
 #: Form/form_us.xml.h:1879 Form/form_us.xml.h:1901 Form/form_us.xml.h:1930
 msgid "Building Material"
-msgstr ""
+msgstr "Будівельний матеріал"
 
 #: Form/form_us.xml.h:1880 Form/form_us.xml.h:1902 Form/form_us.xml.h:1931
 msgid "Dwelling Value"
-msgstr ""
+msgstr "Вартість житла"
 
 #: Form/form_us.xml.h:1885 Form/form_us.xml.h:1907 Form/form_us.xml.h:1936
 msgid "Birthplace (NY County or other)"
-msgstr ""
+msgstr "Місце народження (округ Нью-Йорк або інше)"
 
 #: Form/form_us.xml.h:1888
 msgid "Years resident in this city or town"
-msgstr ""
+msgstr "Кількість років проживання у цьому місті чи містечку"
 
 #: Form/form_us.xml.h:1890 Form/form_us.xml.h:1915 Form/form_us.xml.h:1942
 msgid "Native Voter"
-msgstr ""
+msgstr "Корінний виборець"
 
 #: Form/form_us.xml.h:1891 Form/form_us.xml.h:1916 Form/form_us.xml.h:1943
 msgid "Naturalized Voter"
-msgstr ""
+msgstr "Натуралізований виборець"
 
 #: Form/form_us.xml.h:1892 Form/form_us.xml.h:1917 Form/form_us.xml.h:1944
 msgid "Alien"
-msgstr ""
+msgstr "Іноземець"
 
 #: Form/form_us.xml.h:1893 Form/form_us.xml.h:1918
 msgid "Persons of color not taxed"
-msgstr ""
+msgstr "Особи кольорової раси, які не обкладаються податком"
 
 #: Form/form_us.xml.h:1894 Form/form_us.xml.h:1920 Form/form_us.xml.h:1946
 msgid "Over 21/Illiterate"
-msgstr ""
+msgstr "Особи старші 21 року/неписемні"
 
 #: Form/form_us.xml.h:1895 Form/form_us.xml.h:1945
 msgid "Landowner"
-msgstr ""
+msgstr "Власник землі"
 
 #: Form/form_us.xml.h:1896 Form/form_us.xml.h:1921 Form/form_us.xml.h:1947
 msgid "Deaf, Dumb, Blind, Insane, Idiotic"
-msgstr ""
+msgstr "Глухі, німі, сліпі, душевнохворі, розумово відсталі"
 
 #: Form/form_us.xml.h:1897 Form/form_us.xml.h:1926 Form/form_us.xml.h:1948
 #: Form/form_us.xml.h:2269 Form/form_us.xml.h:2298 Form/form_us.xml.h:2326
 msgid "Inhabitants in the"
-msgstr ""
+msgstr "Жителі у"
 
 #: Form/form_us.xml.h:1908
 msgid "Parent of how many children"
-msgstr ""
+msgstr "Скількох дітей є батьком/матір'ю"
 
 #: Form/form_us.xml.h:1909
 msgid "Number of times married"
-msgstr ""
+msgstr "Кількість шлюбів"
 
 #: Form/form_us.xml.h:1914
 msgid "Place of Occupation"
-msgstr ""
+msgstr "Місце роботи"
 
 #: Form/form_us.xml.h:1919
 msgid "Land owner"
-msgstr ""
+msgstr "Власник землі"
 
 #: Form/form_us.xml.h:1922
 msgid "Now in army"
-msgstr ""
+msgstr "Зараз у армії"
 
 #: Form/form_us.xml.h:1923
 msgid "Now in navy"
-msgstr ""
+msgstr "Зараз у флоті"
 
 #: Form/form_us.xml.h:1924
 msgid "Formerly in army"
-msgstr ""
+msgstr "Раніше служив у армії"
 
 #: Form/form_us.xml.h:1925
 msgid "Formerly in navy"
-msgstr ""
+msgstr "Раніше служив у флоті"
 
 #: Form/form_us.xml.h:1941
 msgid "Usual place of employment (if not same city/town)"
-msgstr ""
+msgstr "Звичне місце роботи (якщо не в цьому ж місті/містечку)"
 
 #: Form/form_us.xml.h:1949
 msgid "Election District of the Town of"
-msgstr ""
+msgstr "Виборчий округ містечка"
 
 #: Form/form_us.xml.h:1950 Form/form_us.xml.h:1962 Form/form_us.xml.h:2271
 #: Form/form_us.xml.h:2300 Form/form_us.xml.h:2328
 msgid "the County of"
-msgstr ""
+msgstr "Округ"
 
 #: Form/form_us.xml.h:1956
 msgid "Birth Country"
-msgstr ""
+msgstr "Країна народження"
 
 #: Form/form_us.xml.h:1957 Form/form_us.xml.h:1971 Form/form_us.xml.h:1990
 #: Form/form_us.xml.h:2010
 msgid "Citizen or Alien"
-msgstr ""
+msgstr "Громадянин чи іноземець"
 
 #: Form/form_us.xml.h:1959
 msgid "Inhabitants living in"
-msgstr ""
+msgstr "Жителі, які проживають у"
 
 #: Form/form_us.xml.h:1960
 msgid "Election District, Ward"
-msgstr ""
+msgstr "Виборчий округ, район"
 
 #: Form/form_us.xml.h:1970 Form/form_us.xml.h:1989 Form/form_us.xml.h:2009
 msgid "Number of years in the US"
-msgstr ""
+msgstr "Кількість років у США"
 
 #: Form/form_us.xml.h:1973 Form/form_us.xml.h:1992 Form/form_us.xml.h:2013
 msgid "Class"
-msgstr ""
+msgstr "Клас"
 
 #: Form/form_us.xml.h:1974 Form/form_us.xml.h:1993 Form/form_us.xml.h:2014
 msgid "Inmate: Residence given when admitted"
-msgstr ""
+msgstr "Мешканець: місце проживання під час прийняття"
 
 #: Form/form_us.xml.h:1975 Form/form_us.xml.h:1996
 msgid "Inhabitants of Block No."
-msgstr ""
+msgstr "Жителі кварталу №"
 
 #: Form/form_us.xml.h:1976 Form/form_us.xml.h:1997
 msgid "Election District No."
-msgstr ""
+msgstr "Виборчий округ №"
 
 #: Form/form_us.xml.h:1977 Form/form_us.xml.h:1998
 msgid "Ward No."
-msgstr ""
+msgstr "Район №"
 
 #: Form/form_us.xml.h:1978 Form/form_us.xml.h:1999
 msgid "City or Village"
-msgstr ""
+msgstr "Місто або село"
 
 #: Form/form_us.xml.h:1980 Form/form_us.xml.h:2001
 msgid "Assembly District No."
-msgstr ""
+msgstr "Окружний виборчий округ №"
 
 #: Form/form_us.xml.h:2011
 msgid "Where and When Naturalized"
-msgstr ""
+msgstr "Де і коли натуралізований"
 
 #: Form/form_us.xml.h:2017
 msgid "WM 21-60"
-msgstr ""
+msgstr "Білі чоловіки 21-60 років"
 
 #: Form/form_us.xml.h:2018
 msgid "WM under 21 above 60 "
-msgstr ""
+msgstr "Білі чоловіки молодші 21 або старші 60 років "
 
 #: Form/form_us.xml.h:2019
 msgid "WF all ages"
-msgstr ""
+msgstr "Білі жінки всіх вікових категорій"
 
 #: Form/form_us.xml.h:2020
 msgid "Blacks 12-50"
-msgstr ""
+msgstr "Темношкірі 12-50 років"
 
 #: Form/form_us.xml.h:2021
 msgid "Blacks under 12 above 50"
-msgstr ""
+msgstr "Темношкірі молодші 12 або старші 50 років"
 
 #: Form/form_us.xml.h:2023
 msgid "Native White Males"
-msgstr ""
+msgstr "Корінні білі чоловіки"
 
 #: Form/form_us.xml.h:2024
 msgid "Native White Females"
-msgstr ""
+msgstr "Корінні білі жінки"
 
 #: Form/form_us.xml.h:2025
 msgid "Native Colored Males"
-msgstr ""
+msgstr "Корінні темношкірі чоловіки"
 
 #: Form/form_us.xml.h:2026
 msgid "Native Colored Females"
-msgstr ""
+msgstr "Корінні темношкірі жінки"
 
 #: Form/form_us.xml.h:2027
 msgid "Foreign Males"
-msgstr ""
+msgstr "Іноземні чоловіки"
 
 #: Form/form_us.xml.h:2028
 msgid "Foreign Females"
-msgstr ""
+msgstr "Іноземні жінки"
 
 #: Form/form_us.xml.h:2029
 msgid "Male Children 5 and Under"
-msgstr ""
+msgstr "Хлопчики 5 років і молодші"
 
 #: Form/form_us.xml.h:2030
 msgid "Female Children 5 and Under"
-msgstr ""
+msgstr "Дівчатка 5 років і молодші"
 
 #: Form/form_us.xml.h:2031
 msgid "Males 5 to 20 Years of Age"
-msgstr ""
+msgstr "Чоловіки віком від 5 до 20 років"
 
 #: Form/form_us.xml.h:2032
 msgid "Females 5 to 20 Years of Age"
-msgstr ""
+msgstr "Жінки віком від 5 до 20 років"
 
 #: Form/form_us.xml.h:2033
 msgid "Males 20 to 60 Years of Age"
-msgstr ""
+msgstr "Чоловіки віком від 20 до 60 років"
 
 #: Form/form_us.xml.h:2034
 msgid "Females 20 to 60 Years of Age"
-msgstr ""
+msgstr "Жінки віком від 20 до 60 років"
 
 #: Form/form_us.xml.h:2035
 msgid "Males Over 60 Years of Age"
-msgstr ""
+msgstr "Чоловіки старші 60 років"
 
 #: Form/form_us.xml.h:2036
 msgid "Females Over 60 Years of Age"
-msgstr ""
+msgstr "Жінки старші 60 років"
 
 #: Form/form_us.xml.h:2040 Form/form_us.xml.h:2079 Form/form_us.xml.h:2116
 #: Form/form_us.xml.h:2154 Form/form_us.xml.h:2192
 msgid "P.O."
-msgstr ""
+msgstr "Поштова скринька"
 
 #: Form/form_us.xml.h:2042
 msgid "Sec."
-msgstr ""
+msgstr "Секція"
 
 #: Form/form_us.xml.h:2043
 msgid "T."
-msgstr ""
+msgstr "T."
 
 #: Form/form_us.xml.h:2044
 msgid "R."
-msgstr ""
+msgstr "R."
 
 #: Form/form_us.xml.h:2047 Form/form_us.xml.h:2520
 msgid "No."
-msgstr ""
+msgstr "№"
 
 #: Form/form_us.xml.h:2048
 msgid "St./Ave "
-msgstr ""
+msgstr "Вулиця/Авеню "
 
 #: Form/form_us.xml.h:2049
 msgid "Hotel or Institution"
-msgstr ""
+msgstr "Готель або установа"
 
 #: Form/form_us.xml.h:2053
 msgid "Years in South Dakota"
-msgstr ""
+msgstr "Кількість років у Південній Дакоті"
 
 #: Form/form_us.xml.h:2054
 msgid "Years in United States"
-msgstr ""
+msgstr "Кількість років у Сполучених Штатах"
 
 #: Form/form_us.xml.h:2055
 msgid "Birthplace of Father"
-msgstr ""
+msgstr "Місце народження батька"
 
 #: Form/form_us.xml.h:2056
 msgid "Birthplace of Mother"
-msgstr ""
+msgstr "Місце народження матері"
 
 #: Form/form_us.xml.h:2060
 msgid "Black"
-msgstr ""
+msgstr "Чорний"
 
 #: Form/form_us.xml.h:2061
 msgid "Red"
-msgstr ""
+msgstr "Червоний"
 
 #: Form/form_us.xml.h:2062
 msgid "Yellow"
-msgstr ""
+msgstr "Жовтий"
 
 #: Form/form_us.xml.h:2066 Form/form_us.xml.h:2102 Form/form_us.xml.h:2140
 #: Form/form_us.xml.h:2178 Form/form_us.xml.h:2216
 msgid "Divorced"
-msgstr ""
+msgstr "Розлучений/розлучена"
 
 #: Form/form_us.xml.h:2067
 msgid "Can Read"
-msgstr ""
+msgstr "Вміє читати"
 
 #: Form/form_us.xml.h:2068
 msgid "Can't Read"
-msgstr ""
+msgstr "Не вміє читати"
 
 #: Form/form_us.xml.h:2069
 msgid "Can Write"
-msgstr ""
+msgstr "Вміє писати"
 
 #: Form/form_us.xml.h:2070
 msgid "Can't Write"
-msgstr ""
+msgstr "Не вміє писати"
 
 #: Form/form_us.xml.h:2083 Form/form_us.xml.h:2120 Form/form_us.xml.h:2158
 #: Form/form_us.xml.h:2196
 msgid "Do you own your home or farm"
-msgstr ""
+msgstr "Чи володієте ви своїм будинком або фермою"
 
 #: Form/form_us.xml.h:2085 Form/form_us.xml.h:2122 Form/form_us.xml.h:2160
 #: Form/form_us.xml.h:2198
 msgid "Ancestry"
-msgstr ""
+msgstr "Походження"
 
 #: Form/form_us.xml.h:2086 Form/form_us.xml.h:2123 Form/form_us.xml.h:2161
 #: Form/form_us.xml.h:2199
 msgid "Father's birthplace"
-msgstr ""
+msgstr "Місце народження батька"
 
 #: Form/form_us.xml.h:2087 Form/form_us.xml.h:2124 Form/form_us.xml.h:2162
 #: Form/form_us.xml.h:2200
 msgid "Mother's birthplace"
-msgstr ""
+msgstr "Місце народження матері"
 
 #: Form/form_us.xml.h:2088 Form/form_us.xml.h:2125 Form/form_us.xml.h:2163
 #: Form/form_us.xml.h:2201
 msgid "Extent of Education"
-msgstr ""
+msgstr "Рівень освіти"
 
 #: Form/form_us.xml.h:2089 Form/form_us.xml.h:2126 Form/form_us.xml.h:2164
 #: Form/form_us.xml.h:2202
 msgid "Graduate of"
-msgstr ""
+msgstr "Випускник"
 
 #: Form/form_us.xml.h:2094 Form/form_us.xml.h:2132 Form/form_us.xml.h:2170
 #: Form/form_us.xml.h:2208
 msgid "Maiden name of wife"
-msgstr ""
+msgstr "Дівоче прізвище дружини"
 
 #: Form/form_us.xml.h:2095 Form/form_us.xml.h:2133 Form/form_us.xml.h:2171
 #: Form/form_us.xml.h:2209 Form/form_dk.xml.h:275
 msgid "Year married"
-msgstr ""
+msgstr "Рік одруження"
 
 #: Form/form_us.xml.h:2096 Form/form_us.xml.h:2134 Form/form_us.xml.h:2172
 #: Form/form_us.xml.h:2210
 msgid "Church affiliation"
-msgstr ""
+msgstr "Релігійна приналежність"
 
 #: Form/form_us.xml.h:2109 Form/form_us.xml.h:2147 Form/form_us.xml.h:2185
 #: Form/form_us.xml.h:2223
 msgid "If Foreign Born, are you Naturalized"
-msgstr ""
+msgstr "Якщо народжений за кордоном, чи натуралізований"
 
 #: Form/form_us.xml.h:2111 Form/form_us.xml.h:2149 Form/form_us.xml.h:2187
 #: Form/form_us.xml.h:2225
 msgid "Years in S.D."
-msgstr ""
+msgstr "Кількість років у Південній Дакоті"
 
 #: Form/form_us.xml.h:2131 Form/form_us.xml.h:2169 Form/form_us.xml.h:2207
 msgid "Division"
-msgstr ""
+msgstr "Поділ"
 
 #: Form/form_us.xml.h:2228
 msgid "Male under 21"
-msgstr ""
+msgstr "Чоловік до 21 року"
 
 #: Form/form_us.xml.h:2229
 msgid "Male over 21"
-msgstr ""
+msgstr "Чоловік старше 21 року"
 
 #: Form/form_us.xml.h:2230
 msgid "Female under 21"
-msgstr ""
+msgstr "Жінка до 21 року"
 
 #: Form/form_us.xml.h:2231
 msgid "Female over 21"
-msgstr ""
+msgstr "Жінка старше 21 року"
 
 #: Form/form_us.xml.h:2234 Form/form_us.xml.h:2246
 msgid "Town/City"
-msgstr ""
+msgstr "Місто/Селище"
 
 #: Form/form_us.xml.h:2236 Form/form_us.xml.h:2248 Form/form_us.xml.h:2260
 msgid "Heads of Families"
-msgstr ""
+msgstr "Глави сімей"
 
 #: Form/form_us.xml.h:2237 Form/form_us.xml.h:2249 Form/form_us.xml.h:2261
 #: Form/form_us.xml.h:2273 Form/form_us.xml.h:2302
 msgid "White males"
-msgstr ""
+msgstr "Білі чоловіки"
 
 #: Form/form_us.xml.h:2238 Form/form_us.xml.h:2250 Form/form_us.xml.h:2262
 #: Form/form_us.xml.h:2274 Form/form_us.xml.h:2303
 msgid "White females"
-msgstr ""
+msgstr "Білі жінки"
 
 #: Form/form_us.xml.h:2239 Form/form_us.xml.h:2251 Form/form_us.xml.h:2263
 #: Form/form_us.xml.h:2275 Form/form_us.xml.h:2304
 msgid "Colored males"
-msgstr ""
+msgstr "Темношкірі чоловіки"
 
 #: Form/form_us.xml.h:2240 Form/form_us.xml.h:2252 Form/form_us.xml.h:2264
 #: Form/form_us.xml.h:2276 Form/form_us.xml.h:2305
 msgid "Colored females"
-msgstr ""
+msgstr "Темношкірі жінки"
 
 #: Form/form_us.xml.h:2241 Form/form_us.xml.h:2253 Form/form_us.xml.h:2265
 msgid "Deaf & Dumb"
-msgstr ""
+msgstr "Глухі та німі"
 
 #: Form/form_us.xml.h:2244 Form/form_us.xml.h:2256
 msgid "Foreign Birth"
-msgstr ""
+msgstr "Народжений за кордоном"
 
 #: Form/form_us.xml.h:2258
 msgid "Inhabitants of"
-msgstr ""
+msgstr "Жителі"
 
 #: Form/form_us.xml.h:2277 Form/form_us.xml.h:2306
 msgid "Nativity - United States"
-msgstr ""
+msgstr "Походження - Сполучені Штати"
 
 #: Form/form_us.xml.h:2278 Form/form_us.xml.h:2307
 msgid "Nativity - Germany"
-msgstr ""
+msgstr "Походження - Німеччина"
 
 #: Form/form_us.xml.h:2279 Form/form_us.xml.h:2308
 msgid "Nativity - Great Britain"
-msgstr ""
+msgstr "Походження - Велика Британія"
 
 #: Form/form_us.xml.h:2280 Form/form_us.xml.h:2309
 msgid "Nativity - Ireland"
-msgstr ""
+msgstr "Походження - Ірландія"
 
 #: Form/form_us.xml.h:2281 Form/form_us.xml.h:2310
 msgid "Nativity - France"
-msgstr ""
+msgstr "Походження - Франція"
 
 #: Form/form_us.xml.h:2282 Form/form_us.xml.h:2311
 msgid "Nativity - British America"
-msgstr ""
+msgstr "Походження - Британська Америка"
 
 #: Form/form_us.xml.h:2283 Form/form_us.xml.h:2312
 msgid "Nativity - Scandinavian"
-msgstr ""
+msgstr "Походження - Скандинавія"
 
 #: Form/form_us.xml.h:2284 Form/form_us.xml.h:2313
 msgid "Nativity - Holland"
-msgstr ""
+msgstr "Походження - Голландія"
 
 #: Form/form_us.xml.h:2285 Form/form_us.xml.h:2314
 msgid "Nativity - All other countries"
-msgstr ""
+msgstr "Походження - Всі інші країни"
 
 #: Form/form_us.xml.h:2287 Form/form_us.xml.h:2316
 msgid "Residing in the"
-msgstr ""
+msgstr "Проживає в"
 
 #: Form/form_us.xml.h:2292 Form/form_us.xml.h:2321
 msgid "Co."
-msgstr ""
+msgstr "Округ"
 
 #: Form/form_us.xml.h:2293 Form/form_us.xml.h:2322
 msgid "Reg't."
-msgstr ""
+msgstr "Полк"
 
 #: Form/form_us.xml.h:2294 Form/form_us.xml.h:2323
 msgid "State or Vessel"
-msgstr ""
+msgstr "Штат або судно"
 
 #: Form/form_us.xml.h:2337
 msgid "Parents place of birth"
-msgstr ""
+msgstr "Місце народження батьків"
 
 #: Form/form_us.xml.h:2340
 msgid "Owned/Rented"
-msgstr ""
+msgstr "Власне/Орендоване"
 
 #: Form/form_us.xml.h:2341
 msgid "Free/Mortgaged"
-msgstr ""
+msgstr "Вільне/Іпотечне"
 
 #: Form/form_us.xml.h:2342
 msgid "Farm/House"
-msgstr ""
+msgstr "Ферма/Будинок"
 
 #: Form/form_us.xml.h:2343 Form/form_us.xml.h:2401 Form/form_us.xml.h:2427
 #: Form/form_us.xml.h:2459 Form/form_gb.xml.h:1 Form/form_gb.xml.h:19
 #: Form/form_gb.xml.h:38
 msgid "Certificate Number"
-msgstr ""
+msgstr "Номер сертифіката"
 
 #: Form/form_us.xml.h:2344 Form/form_us.xml.h:2402 Form/form_us.xml.h:2428
 #: Form/form_us.xml.h:2460 Form/form_gb.xml.h:2 Form/form_gb.xml.h:20
 #: Form/form_gb.xml.h:39
 msgid "Entry Number"
-msgstr ""
+msgstr "Номер запису"
 
 #: Form/form_us.xml.h:2345 Form/form_us.xml.h:2429 Form/form_us.xml.h:2461
 #: Form/form_gb.xml.h:6 Form/form_gb.xml.h:43
 msgid "Date Registered"
-msgstr ""
+msgstr "Дата реєстрації"
 
 #: Form/form_us.xml.h:2346 Form/form_us.xml.h:2430 Form/form_us.xml.h:2462
 #: Form/form_gb.xml.h:7 Form/form_gb.xml.h:44
 msgid "Registrar"
-msgstr ""
+msgstr "Реєстратор"
 
 #: Form/form_us.xml.h:2349
 msgid "Twin, triplet or other"
-msgstr ""
+msgstr "Близнюк, трійня або інше"
 
 #: Form/form_us.xml.h:2350
 msgid "No. in order of birth"
-msgstr ""
+msgstr "Номер за порядком народження"
 
 #: Form/form_us.xml.h:2351
 msgid "Legitimate"
-msgstr ""
+msgstr "Законнонароджений"
 
 #: Form/form_us.xml.h:2352 Form/form_us.xml.h:2527 Form/form_fr.xml.h:2
 #: Form/form_fr.xml.h:10 Form/form_fr.xml.h:18 Form/form_fr.xml.h:26
 #: Form/form_fr.xml.h:138 Form/form_fr.xml.h:210
 msgid "Date of birth"
-msgstr ""
+msgstr "Дата народження"
 
 #: Form/form_us.xml.h:2369 Form/form_us.xml.h:2390 Form/form_us.xml.h:2483
 #: Form/form_us.xml.h:2570
 msgid "Place of Record"
-msgstr ""
+msgstr "Місце запису"
 
 #: Form/form_us.xml.h:2370 Form/form_us.xml.h:2391 Form/form_us.xml.h:2484
 #: Form/form_us.xml.h:2571
 msgid "Book/Volume"
-msgstr ""
+msgstr "Книга/Том"
 
 #: Form/form_us.xml.h:2377 Form/form_us.xml.h:2493
 msgid "Race/Color"
-msgstr ""
+msgstr "Раса/Колір"
 
 #: Form/form_us.xml.h:2380
 msgid ""
 "STOP! If you want this record to be attached to the Parents move to Father."
-msgstr ""
+msgstr "СТІЙ! Якщо хочете прикріпити цей запис до батьків, перейдіть до батька."
 
 #: Form/form_us.xml.h:2381
 msgid "Mother (Maiden Name)"
-msgstr ""
+msgstr "Мати (дівоче прізвище)"
 
 #: Form/form_us.xml.h:2382
 msgid "Residence of Parents"
-msgstr ""
+msgstr "Місце проживання батьків"
 
 #: Form/form_us.xml.h:2383
 msgid "By Whom Reported"
-msgstr ""
+msgstr "Ким повідомлено"
 
 #: Form/form_us.xml.h:2384 Form/form_us.xml.h:2501
 msgid "Date Recorded"
-msgstr ""
+msgstr "Дата запису"
 
 #: Form/form_us.xml.h:2393
 msgid "License No."
@@ -16759,7 +16772,7 @@ msgstr "Служив в армії США"
 #: Form/form_us.xml.h:2439 Form/form_us.xml.h:2479 Form/form_pl.xml.h:11
 #: Form/form_pl.xml.h:39
 msgid "Spouse's Name"
-msgstr ""
+msgstr "Ім'я подружжя"
 
 #: Form/form_us.xml.h:2440
 msgid "Birth date of deceased"
@@ -16933,7 +16946,7 @@ msgstr "Лисий"
 #: Form/form_gb.xml.h:228 Form/form_gb.xml.h:298 Form/form_gb.xml.h:325
 #: Form/form_gb.xml.h:361 Form/form_gb.xml.h:592 Form/form_gb.xml.h:624
 msgid "Disability"
-msgstr ""
+msgstr "Інвалідність"
 
 #: Form/form_us.xml.h:2547 Form/form_us.xml.h:2569
 msgid "Place of Registration"
@@ -16993,63 +17006,63 @@ msgstr "Інші характеристики"
 
 #: Form/form_us.xml.h:2574
 msgid "Date entered"
-msgstr ""
+msgstr "Дата вступу"
 
 #: Form/form_us.xml.h:2575
 msgid "Place entered"
-msgstr ""
+msgstr "Місце вступу"
 
 #: Form/form_us.xml.h:2576
 msgid "Term of enlistment"
-msgstr ""
+msgstr "Термін служби"
 
 #: Form/form_us.xml.h:2580
 msgid "Eye color"
-msgstr ""
+msgstr "Колір очей"
 
 #: Form/form_us.xml.h:2581
 msgid "Hair color"
-msgstr ""
+msgstr "Колір волосся"
 
 #: Form/form_us.xml.h:2584
 msgid "Rank in"
-msgstr ""
+msgstr "Звання на момент вступу"
 
 #: Form/form_us.xml.h:2585
 msgid "Branch"
-msgstr ""
+msgstr "Галузь служби"
 
 #: Form/form_us.xml.h:2586
 msgid "Regiment/Unit/Ship"
-msgstr ""
+msgstr "Полк/Підрозділ/Корабель"
 
 #: Form/form_us.xml.h:2588
 msgid "Service Number"
-msgstr ""
+msgstr "Службовий номер"
 
 #: Form/form_us.xml.h:2589
 msgid "No. of enlistment"
-msgstr ""
+msgstr "Номер зарахування"
 
 #: Form/form_us.xml.h:2590
 msgid "Date discharged"
-msgstr ""
+msgstr "Дата звільнення"
 
 #: Form/form_us.xml.h:2591
 msgid "Place discharged"
-msgstr ""
+msgstr "Місце звільнення"
 
 #: Form/form_us.xml.h:2592
 msgid "Rank out"
-msgstr ""
+msgstr "Звання на момент звільнення"
 
 #: Form/form_us.xml.h:2597
 msgid "Industry/Employer"
-msgstr ""
+msgstr "Промисловість/Роботодавець"
 
 #: Form/form_us.xml.h:2600
 msgid "Residents Status"
-msgstr ""
+msgstr "Статус мешканця"
 
 #: Form/form_dk.xml.h:2 Form/form_dk.xml.h:19 Form/form_dk.xml.h:36
 #: Form/form_dk.xml.h:51 Form/form_dk.xml.h:68 Form/form_dk.xml.h:85
@@ -17059,7 +17072,7 @@ msgstr ""
 #: Form/form_dk.xml.h:313 Form/form_dk.xml.h:337 Form/form_dk.xml.h:363
 #: Form/form_dk.xml.h:387 Form/form_dk.xml.h:407 Form/form_dk.xml.h:427
 msgid "Amt"
-msgstr ""
+msgstr "Сума"
 
 #: Form/form_dk.xml.h:3 Form/form_dk.xml.h:20 Form/form_dk.xml.h:37
 #: Form/form_dk.xml.h:52 Form/form_dk.xml.h:69 Form/form_dk.xml.h:86
@@ -17069,7 +17082,7 @@ msgstr ""
 #: Form/form_dk.xml.h:314 Form/form_dk.xml.h:338 Form/form_dk.xml.h:364
 #: Form/form_dk.xml.h:388 Form/form_dk.xml.h:408 Form/form_dk.xml.h:428
 msgid "Town or City"
-msgstr ""
+msgstr "Місто або селище"
 
 #: Form/form_dk.xml.h:4 Form/form_dk.xml.h:21 Form/form_dk.xml.h:38
 #: Form/form_dk.xml.h:53 Form/form_dk.xml.h:70 Form/form_dk.xml.h:87
@@ -17079,7 +17092,7 @@ msgstr ""
 #: Form/form_dk.xml.h:315 Form/form_dk.xml.h:339 Form/form_dk.xml.h:365
 #: Form/form_dk.xml.h:389 Form/form_dk.xml.h:409 Form/form_dk.xml.h:429
 msgid "Herred eller By"
-msgstr ""
+msgstr "Округ або місто"
 
 #: Form/form_dk.xml.h:6 Form/form_dk.xml.h:23 Form/form_dk.xml.h:40
 #: Form/form_dk.xml.h:55 Form/form_dk.xml.h:72 Form/form_dk.xml.h:89
@@ -17089,7 +17102,7 @@ msgstr ""
 #: Form/form_dk.xml.h:317 Form/form_dk.xml.h:341 Form/form_dk.xml.h:367
 #: Form/form_dk.xml.h:391 Form/form_dk.xml.h:411 Form/form_dk.xml.h:431
 msgid "Sogn"
-msgstr ""
+msgstr "Парафія"
 
 #: Form/form_dk.xml.h:8 Form/form_dk.xml.h:25 Form/form_dk.xml.h:42
 #: Form/form_dk.xml.h:57 Form/form_dk.xml.h:74 Form/form_dk.xml.h:91
@@ -17099,7 +17112,7 @@ msgstr ""
 #: Form/form_dk.xml.h:319 Form/form_dk.xml.h:343 Form/form_dk.xml.h:369
 #: Form/form_dk.xml.h:393 Form/form_dk.xml.h:413 Form/form_dk.xml.h:433
 msgid "Gade"
-msgstr ""
+msgstr "Вулиця"
 
 #: Form/form_dk.xml.h:11 Form/form_dk.xml.h:28 Form/form_dk.xml.h:45
 #: Form/form_dk.xml.h:60 Form/form_dk.xml.h:77 Form/form_dk.xml.h:94
@@ -17107,7 +17120,7 @@ msgstr ""
 #: Form/form_dk.xml.h:170 Form/form_dk.xml.h:193 Form/form_dk.xml.h:214
 #: Form/form_dk.xml.h:235 Form/form_dk.xml.h:259 Form/form_dk.xml.h:294
 msgid "Gift"
-msgstr ""
+msgstr "Одружений/Заміжня"
 
 #: Form/form_dk.xml.h:13 Form/form_dk.xml.h:30 Form/form_dk.xml.h:47
 #: Form/form_dk.xml.h:62 Form/form_dk.xml.h:79 Form/form_dk.xml.h:96
@@ -17115,7 +17128,7 @@ msgstr ""
 #: Form/form_dk.xml.h:172 Form/form_dk.xml.h:195 Form/form_dk.xml.h:216
 #: Form/form_dk.xml.h:237
 msgid "Alder"
-msgstr ""
+msgstr "Вік"
 
 #: Form/form_dk.xml.h:15 Form/form_dk.xml.h:32 Form/form_dk.xml.h:49
 #: Form/form_dk.xml.h:66 Form/form_dk.xml.h:83 Form/form_dk.xml.h:100
@@ -17125,15 +17138,15 @@ msgstr ""
 #: Form/form_dk.xml.h:332 Form/form_dk.xml.h:348 Form/form_dk.xml.h:380
 #: Form/form_dk.xml.h:400 Form/form_dk.xml.h:422 Form/form_dk.xml.h:442
 msgid "Stilling i familien"
-msgstr ""
+msgstr "Статус у сім'ї"
 
 #: Form/form_dk.xml.h:17
 msgid "Titel, Embed, Forretning, Håndværk"
-msgstr ""
+msgstr "Титул, посада, бізнес, ремесло"
 
 #: Form/form_dk.xml.h:34
 msgid "Stilling, embede eller erhverv"
-msgstr ""
+msgstr "Посада, звання або заняття"
 
 #: Form/form_dk.xml.h:63 Form/form_dk.xml.h:80 Form/form_dk.xml.h:97
 #: Form/form_dk.xml.h:116 Form/form_dk.xml.h:135 Form/form_dk.xml.h:152
@@ -17153,7 +17166,7 @@ msgstr ""
 #: Form/form_gb.xml.h:529 Form/form_gb.xml.h:566 Form/form_gb.xml.h:589
 #: Form/form_gb.xml.h:621
 msgid "Where Born"
-msgstr ""
+msgstr "Місце народження"
 
 #: Form/form_dk.xml.h:64 Form/form_dk.xml.h:81 Form/form_dk.xml.h:98
 #: Form/form_dk.xml.h:117 Form/form_dk.xml.h:136 Form/form_dk.xml.h:153
@@ -17162,21 +17175,21 @@ msgstr ""
 #: Form/form_dk.xml.h:324 Form/form_dk.xml.h:374 Form/form_dk.xml.h:398
 #: Form/form_dk.xml.h:420 Form/form_dk.xml.h:438
 msgid "Fødested"
-msgstr ""
+msgstr "Місце народження (данською)"
 
 #: Form/form_dk.xml.h:115 Form/form_dk.xml.h:134
 msgid "Erhverv"
-msgstr ""
+msgstr "Рід занять"
 
 #: Form/form_dk.xml.h:155 Form/form_dk.xml.h:176 Form/form_dk.xml.h:199
 #: Form/form_dk.xml.h:220 Form/form_dk.xml.h:241 Form/form_dk.xml.h:269
 #: Form/form_dk.xml.h:304 Form/form_dk.xml.h:326
 msgid "Trossamfund"
-msgstr ""
+msgstr "Релігійна громада"
 
 #: Form/form_dk.xml.h:167 Form/form_dk.xml.h:190
 msgid "Sted"
-msgstr ""
+msgstr "Місце"
 
 #: Form/form_dk.xml.h:179 Form/form_dk.xml.h:202 Form/form_dk.xml.h:223
 #: Form/form_dk.xml.h:247 Form/form_dk.xml.h:281 Form/form_dk.xml.h:310
@@ -17192,314 +17205,318 @@ msgstr ""
 #: Form/form_fr.xml.h:180 Form/form_fr.xml.h:189 Form/form_fr.xml.h:198
 #: Form/form_fr.xml.h:207 Form/form_fr.xml.h:223
 msgid "Comments"
-msgstr ""
+msgstr "Коментарі"
 
 #: Form/form_dk.xml.h:180 Form/form_dk.xml.h:203 Form/form_dk.xml.h:224
 #: Form/form_dk.xml.h:248 Form/form_dk.xml.h:282 Form/form_dk.xml.h:311
 msgid "Bemærkninger"
-msgstr ""
+msgstr "Примітки"
 
 #: Form/form_dk.xml.h:245 Form/form_dk.xml.h:273 Form/form_dk.xml.h:308
 #: Form/form_dk.xml.h:334 Form/form_dk.xml.h:350 Form/form_dk.xml.h:382
 #: Form/form_dk.xml.h:424 Form/form_dk.xml.h:444 Form/form_gb.xml.h:253
 #: Form/form_gb.xml.h:388
 msgid "Place of Work"
-msgstr ""
+msgstr "Місце роботи"
 
 #: Form/form_dk.xml.h:246 Form/form_dk.xml.h:274 Form/form_dk.xml.h:309
 #: Form/form_dk.xml.h:335 Form/form_dk.xml.h:351 Form/form_dk.xml.h:383
 #: Form/form_dk.xml.h:425 Form/form_dk.xml.h:445
 msgid "Arbejdssted"
-msgstr ""
+msgstr "Робоче місце"
 
 #: Form/form_dk.xml.h:261 Form/form_dk.xml.h:296 Form/form_dk.xml.h:322
 #: Form/form_dk.xml.h:346 Form/form_dk.xml.h:372 Form/form_dk.xml.h:396
 #: Form/form_dk.xml.h:418 Form/form_dk.xml.h:436
 msgid "Fødselsdato"
-msgstr ""
+msgstr "Дата народження"
 
 #: Form/form_dk.xml.h:264 Form/form_dk.xml.h:299 Form/form_dk.xml.h:375
 msgid "Years at current residence"
-msgstr ""
+msgstr "Роки проживання за поточною адресою"
 
 #: Form/form_dk.xml.h:265 Form/form_dk.xml.h:300 Form/form_dk.xml.h:376
 msgid "År tilflyttet"
-msgstr ""
+msgstr "Рік переїзду"
 
 #: Form/form_dk.xml.h:266 Form/form_dk.xml.h:301 Form/form_dk.xml.h:377
 msgid "Previous residence"
-msgstr ""
+msgstr "Попереднє місце проживання"
 
 #: Form/form_dk.xml.h:267 Form/form_dk.xml.h:302 Form/form_dk.xml.h:378
 msgid "Tilflyttet fra"
-msgstr ""
+msgstr "Прибув з"
 
 #: Form/form_dk.xml.h:276
 msgid "År gift"
-msgstr ""
+msgstr "Рік одруження"
 
 #: Form/form_dk.xml.h:277 Form/form_gb.xml.h:212 Form/form_gb.xml.h:345
 #: Form/form_gb.xml.h:620
 msgid "Children Living"
-msgstr ""
+msgstr "Діти, що живуть"
 
 #: Form/form_dk.xml.h:278
 msgid "Levende børn"
-msgstr ""
+msgstr "Живі діти"
 
 #: Form/form_dk.xml.h:279
 msgid "Children Dead"
-msgstr ""
+msgstr "Діти, що померли"
 
 #: Form/form_dk.xml.h:280
 msgid "Døde børn"
-msgstr ""
+msgstr "Померлі діти"
 
 #: Form/form_dk.xml.h:292
 msgid "Køn"
-msgstr ""
+msgstr "Стать"
 
 #: Form/form_dk.xml.h:327
 msgid "Year stayed in parish"
-msgstr ""
+msgstr "Рік перебування у парафії"
 
 #: Form/form_dk.xml.h:328
 msgid "Hvilket aar taget ophold i sognet"
-msgstr ""
+msgstr "У якому році оселився у парафії"
 
 #: Form/form_dk.xml.h:329
 msgid "Previous Residence"
-msgstr ""
+msgstr "Попереднє місце проживання"
 
 #: Form/form_dk.xml.h:330
 msgid "Sidste bopæl inden tilflytning"
-msgstr ""
+msgstr "Останнє місце проживання перед переїздом"
 
 #: Form/form_dk.xml.h:353 Form/form_dk.xml.h:385 Form/form_dk.xml.h:405
 msgid "Bemærkning"
-msgstr ""
+msgstr "Примітка"
 
 #: Form/form_dk.xml.h:354
 msgid "Income"
-msgstr ""
+msgstr "Доходи"
 
 #: Form/form_dk.xml.h:355
 msgid "Indkomst"
-msgstr ""
+msgstr "Дохід"
 
 #: Form/form_dk.xml.h:356
 msgid "Assets"
-msgstr ""
+msgstr "Активи"
 
 #: Form/form_dk.xml.h:357
 msgid "Formue"
-msgstr ""
+msgstr "Статки"
 
 #: Form/form_dk.xml.h:358
 msgid "State Tax"
-msgstr ""
+msgstr "Державний податок"
 
 #: Form/form_dk.xml.h:359
 msgid "Statsskat"
-msgstr ""
+msgstr "Державний податок"
 
 #: Form/form_dk.xml.h:360
 msgid "Council"
-msgstr ""
+msgstr "Муніципалітет"
 
 #: Form/form_dk.xml.h:361
 msgid "Kommuneskat"
-msgstr ""
+msgstr "Муніципальний податок"
 
 #: Form/form_dk.xml.h:402
 msgid "Residence on 5 Nov 1924"
-msgstr ""
+msgstr "Місце проживання на 5 листопада 1924"
 
 #: Form/form_dk.xml.h:403
 msgid "Bopæl 5 nov 1924"
-msgstr ""
+msgstr "Місце проживання 5 листопада 1924"
 
 #: Form/form_dk.xml.h:415
 msgid "Stay on 5 Nov 1929"
-msgstr ""
+msgstr "Перебування на 5 листопада 1929"
 
 #: Form/form_dk.xml.h:416
 msgid "Ophold 5 nov 1929"
-msgstr ""
+msgstr "Перебування 5 листопада 1929"
 
 #: Form/form_dk.xml.h:439
 msgid "Date Married"
-msgstr ""
+msgstr "Дата шлюбу"
 
 #: Form/form_dk.xml.h:440
 msgid "Dato gift"
-msgstr ""
+msgstr "Дата шлюбу"
 
 #: Form/form_pl.xml.h:5
 msgid "Event Place (Original)"
-msgstr ""
+msgstr "Місце події (оригінал)"
 
 #: Form/form_pl.xml.h:8 Form/form_pl.xml.h:36
 msgid "Birth Year (Estimated)"
-msgstr ""
+msgstr "Орієнтовний рік народження"
 
 #: Form/form_pl.xml.h:12 Form/form_pl.xml.h:40
 msgid "Spouse's Gender"
-msgstr ""
+msgstr "Стать подружжя"
 
 #: Form/form_pl.xml.h:13 Form/form_pl.xml.h:41
 msgid "Spouse's Age"
-msgstr ""
+msgstr "Вік подружжя"
 
 #: Form/form_pl.xml.h:14 Form/form_pl.xml.h:42
 msgid "Spouse's Birth Year (Estimated)"
-msgstr ""
+msgstr "Орієнтовний рік народження подружжя"
 
 #: Form/form_pl.xml.h:15 Form/form_pl.xml.h:43
 msgid "Spouse's Father's Name"
-msgstr ""
+msgstr "Ім'я батька подружжя"
 
 #: Form/form_pl.xml.h:16 Form/form_pl.xml.h:44
 msgid "Spouse's Mother's Name"
-msgstr ""
+msgstr "Ім'я матері подружжя"
 
 #: Form/form_pl.xml.h:18
 msgid "Record Number"
-msgstr ""
+msgstr "Номер запису"
 
 #: Form/form_pl.xml.h:19
 msgid "Volume"
-msgstr ""
+msgstr "Том"
 
 #: Form/form_pl.xml.h:28
 msgid "Volume Beginning Year"
-msgstr ""
+msgstr "Рік початку тому"
 
 #: Form/form_pl.xml.h:29
 msgid "Volume Ending Year"
-msgstr ""
+msgstr "Рік закінчення тому"
 
 #: Form/form_fr.xml.h:38 Form/form_fr.xml.h:55 Form/form_fr.xml.h:220
 msgid "Can read and write"
-msgstr ""
+msgstr "Може читати та писати"
 
 #: Form/form_fr.xml.h:42 Form/form_fr.xml.h:47
 msgid "Military"
-msgstr ""
+msgstr "Військова служба"
 
 #: Form/form_fr.xml.h:56 Form/form_fr.xml.h:221
 msgid "Taxes"
-msgstr ""
+msgstr "Податки"
 
 #: Form/form_fr.xml.h:57 Form/form_fr.xml.h:67 Form/form_fr.xml.h:222
 msgid "Type of roof"
-msgstr ""
+msgstr "Тип даху"
 
 #: Form/form_fr.xml.h:144
 msgid "Arrived since"
-msgstr ""
+msgstr "Прибув з"
 
 #: Form/form_gb.xml.h:3 Form/form_gb.xml.h:40 Form/form_gb.xml.h:196
 #: Form/form_gb.xml.h:230 Form/form_gb.xml.h:329 Form/form_gb.xml.h:365
 msgid "Registration District"
-msgstr ""
+msgstr "Реєстраційний округ"
 
 #: Form/form_gb.xml.h:4 Form/form_gb.xml.h:21 Form/form_gb.xml.h:41
 msgid "Administrative Area"
-msgstr ""
+msgstr "Адміністративний район"
 
 #: Form/form_gb.xml.h:5 Form/form_gb.xml.h:22 Form/form_gb.xml.h:42
 msgid "County/Administrative Area"
-msgstr ""
+msgstr "Округ/Адміністративний район"
 
 #: Form/form_gb.xml.h:13 Form/form_gb.xml.h:47
 msgid "Maiden Surname"
-msgstr ""
+msgstr "Дівоче прізвище"
 
 #: Form/form_gb.xml.h:23
 msgid "Banns/Licence"
-msgstr ""
+msgstr "Оголошення шлюбу/Ліцензія"
 
 #: Form/form_gb.xml.h:31 Form/form_gb.xml.h:34
 msgid "Deceased"
-msgstr ""
+msgstr "Померлий"
 
 #: Form/form_gb.xml.h:48
 msgid "Maiden surname of woman who was married"
-msgstr ""
+msgstr "Дівоче прізвище одруженої жінки"
 
 #: Form/form_gb.xml.h:53
 msgid "Usual Address"
-msgstr ""
+msgstr "Звична адреса"
 
 #: Form/form_gb.xml.h:59 Form/form_gb.xml.h:71
 msgid "City or Borough"
-msgstr ""
+msgstr "Місто або округ"
 
 #: Form/form_gb.xml.h:60 Form/form_gb.xml.h:69 Form/form_gb.xml.h:85
 msgid "Parish or Township"
-msgstr ""
+msgstr "Парафія або селище"
 
 #: Form/form_gb.xml.h:62
 msgid "NAMES of each Person who abode therein the preceding Night."
-msgstr ""
+msgstr "Імена кожної особи, яка перебувала тут попередньої ночі."
 
 #: Form/form_gb.xml.h:64
 msgid ""
 "AGE, rounded down to the nearest five years for those aged fifteen or over."
-msgstr ""
+msgstr "Вік, округлений до найближчих п'яти років для осіб віком від 15 років."
 
 #: Form/form_gb.xml.h:66
 msgid "PROFESSION, TRADE, EMPLOYMENT or of INDEPENDENT MEANS."
-msgstr ""
+msgstr "Професія, торгівля, зайнятість або незалежний засіб існування."
 
 #: Form/form_gb.xml.h:68
 msgid ""
 "Whether Born in same County (Y or N), Scotland (S), Ireland (I) or Foreign "
 "Parts (P)."
 msgstr ""
+"Чи народжений у тому ж окрузі (Y або N), Шотландії (S), Ірландії (I) або за "
+"кордоном (P)."
 
 #: Form/form_gb.xml.h:70 Form/form_gb.xml.h:91 Form/form_gb.xml.h:110
 msgid "Ecclesiastical District"
-msgstr ""
+msgstr "Церковний округ"
 
 #: Form/form_gb.xml.h:75
 msgid ""
 "Name and Surname of each Person who abode in the house, on the Night of the "
 "30th March, 1851"
 msgstr ""
+"Ім'я та прізвище кожної особи, яка перебувала в будинку в ніч на 30 березня "
+"1851 року"
 
 #: Form/form_gb.xml.h:77 Form/form_gb.xml.h:95 Form/form_gb.xml.h:433
 #: Form/form_gb.xml.h:460 Form/form_gb.xml.h:488 Form/form_gb.xml.h:520
 #: Form/form_gb.xml.h:559 Form/form_gb.xml.h:581 Form/form_gb.xml.h:610
 msgid "Relation to Head of Family"
-msgstr ""
+msgstr "Стосунок до голови сім'ї"
 
 #: Form/form_gb.xml.h:81
 msgid "Rank, Profession or Occupation"
-msgstr ""
+msgstr "Звання, професія або зайнятість"
 
 #: Form/form_gb.xml.h:84
 msgid "Whether Blind or Deaf and Dumb"
-msgstr ""
+msgstr "Чи є сліпим або глухонімим"
 
 #: Form/form_gb.xml.h:86 Form/form_gb.xml.h:104 Form/form_gb.xml.h:125
 msgid "City or Municipal Borough"
-msgstr ""
+msgstr "Місто або муніципальний округ"
 
 #: Form/form_gb.xml.h:87 Form/form_gb.xml.h:105 Form/form_gb.xml.h:126
 #: Form/form_gb.xml.h:148 Form/form_gb.xml.h:277
 msgid "Municipal Ward"
-msgstr ""
+msgstr "Муніципальний округ"
 
 #: Form/form_gb.xml.h:88 Form/form_gb.xml.h:106 Form/form_gb.xml.h:127
 #: Form/form_gb.xml.h:601
 msgid "Parliamentary Borough"
-msgstr ""
+msgstr "Парламентський округ"
 
 #: Form/form_gb.xml.h:90
 msgid "Hamlet or Tything"
-msgstr ""
+msgstr "Село або територіальний поділ"
 
 #: Form/form_gb.xml.h:93 Form/form_gb.xml.h:180 Form/form_gb.xml.h:311
 msgid "Name and Surname of each Person"
