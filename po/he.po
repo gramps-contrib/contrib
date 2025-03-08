@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Gramps 5.2.0 – mediamerge\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-08 18:38+0000\n"
-"PO-Revision-Date: 2025-03-08 15:16+0000\n"
+"PO-Revision-Date: 2025-03-08 19:53+0000\n"
 "Last-Translator: Avi Markovitz <avi.markovitz@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/gramps-project/"
 "addons/he/>\n"
@@ -21354,10 +21354,8 @@ msgid "December"
 msgstr ""
 
 #: ThisDayInFamilyHistory/ThisDayInFamilyHistory.py:247
-#, fuzzy
-#| msgid "Primary Name"
 msgid "Person Name"
-msgstr "שם עיקרי"
+msgstr "שם אדם"
 
 #: ThisDayInFamilyHistory/ThisDayInFamilyHistory.py:249
 msgid "Event Year"
@@ -21381,16 +21379,12 @@ msgid " and "
 msgstr ""
 
 #: ThisDayInFamilyHistory/ThisDayInFamilyHistory.py:431
-#, fuzzy
-#| msgid "unknown version"
 msgid "unknown participant"
-msgstr "גרסה לא ידועה"
+msgstr "משתתף לא ידוע"
 
 #: ThisDayInFamilyHistory/ThisDayInFamilyHistory.py:438
-#, fuzzy
-#| msgid "unknown version"
 msgid "unknown location"
-msgstr "גרסה לא ידועה"
+msgstr "מיקום לא ידוע"
 
 #: ThisDayInFamilyHistory/ThisDayInFamilyHistory.py:481
 #, python-format
