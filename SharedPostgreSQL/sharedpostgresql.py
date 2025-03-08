@@ -3,7 +3,7 @@
 #
 # Copyright (C) 2015-2016 Douglas S. Blank <doug.blank@gmail.com>
 # Copyright (C) 2016-2017 Nick Hall
-# Copyright (C) 2022 David Straub
+# Copyright (C) 2022-2025 David Straub
 #
 # This program is free software; you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -207,6 +207,23 @@ class Connection:
         self.__cursor.execute(
             "SELECT COUNT(*) " "FROM information_schema.tables " "WHERE table_name=%s;",
             [table],
+        )
+        return self.fetchone()[0] != 0
+
+    def column_exists(self, table, column):
+        """
+        Test whether the specified SQL column exists in the specified table.
+        :param table: table name to check.
+        :type table: str
+        :param column: column name to check.
+        :type column: str
+        :returns: True if the column exists, False otherwise.
+        :rtype: bool
+        """
+        self.__cursor.execute(
+            "SELECT COUNT(*) FROM information_schema.columns "
+            "WHERE table_name = %s AND column_name = %s", 
+            (table, column)
         )
         return self.fetchone()[0] != 0
 
