@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: gramps51\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-09 22:42+0000\n"
-"PO-Revision-Date: 2025-03-09 08:45+0000\n"
+"PO-Revision-Date: 2025-03-10 05:47+0000\n"
 "Last-Translator: Pedro Albuquerque <pmra@protonmail.com>\n"
 "Language-Team: Portuguese (Portugal) <https://hosted.weblate.org/projects/"
 "gramps-project/addons/pt_PT/>\n"
@@ -13836,28 +13836,28 @@ msgstr "Amarelo"
 #: Form/form_us.xml.h:2066 Form/form_us.xml.h:2102 Form/form_us.xml.h:2140
 #: Form/form_us.xml.h:2178 Form/form_us.xml.h:2216
 msgid "Divorced"
-msgstr ""
+msgstr "Divorciados"
 
 #: Form/form_us.xml.h:2067
 msgid "Can Read"
-msgstr ""
+msgstr "Sabe ler"
 
 #: Form/form_us.xml.h:2068
 msgid "Can't Read"
-msgstr ""
+msgstr "Não sabe ler"
 
 #: Form/form_us.xml.h:2069
 msgid "Can Write"
-msgstr ""
+msgstr "Sabe escrever"
 
 #: Form/form_us.xml.h:2070
 msgid "Can't Write"
-msgstr ""
+msgstr "Não sabe escrever"
 
 #: Form/form_us.xml.h:2083 Form/form_us.xml.h:2120 Form/form_us.xml.h:2158
 #: Form/form_us.xml.h:2196
 msgid "Do you own your home or farm"
-msgstr ""
+msgstr "Possui casa ou quinta próprias"
 
 #: Form/form_us.xml.h:2085 Form/form_us.xml.h:2122 Form/form_us.xml.h:2160
 #: Form/form_us.xml.h:2198 TimelinePedigreeView/TimelinePedigreeView.gpr.py:34
@@ -13867,95 +13867,95 @@ msgstr "Ascendência"
 #: Form/form_us.xml.h:2086 Form/form_us.xml.h:2123 Form/form_us.xml.h:2161
 #: Form/form_us.xml.h:2199
 msgid "Father's birthplace"
-msgstr ""
+msgstr "Local de nascimento do pai"
 
 #: Form/form_us.xml.h:2087 Form/form_us.xml.h:2124 Form/form_us.xml.h:2162
 #: Form/form_us.xml.h:2200
 msgid "Mother's birthplace"
-msgstr ""
+msgstr "Local de nascimento da mãe"
 
 #: Form/form_us.xml.h:2088 Form/form_us.xml.h:2125 Form/form_us.xml.h:2163
 #: Form/form_us.xml.h:2201
 msgid "Extent of Education"
-msgstr ""
+msgstr "Grau de instrução"
 
 #: Form/form_us.xml.h:2089 Form/form_us.xml.h:2126 Form/form_us.xml.h:2164
 #: Form/form_us.xml.h:2202
 msgid "Graduate of"
-msgstr ""
+msgstr "Concluiu"
 
 #: Form/form_us.xml.h:2094 Form/form_us.xml.h:2132 Form/form_us.xml.h:2170
 #: Form/form_us.xml.h:2208
 msgid "Maiden name of wife"
-msgstr ""
+msgstr "Nome de solteira da esposa"
 
 #: Form/form_us.xml.h:2095 Form/form_us.xml.h:2133 Form/form_us.xml.h:2171
 #: Form/form_us.xml.h:2209 Form/form_dk.xml.h:275
 msgid "Year married"
-msgstr ""
+msgstr "Ano de casamento"
 
 #: Form/form_us.xml.h:2096 Form/form_us.xml.h:2134 Form/form_us.xml.h:2172
 #: Form/form_us.xml.h:2210
 msgid "Church affiliation"
-msgstr ""
+msgstr "Filiação à igreja"
 
 #: Form/form_us.xml.h:2109 Form/form_us.xml.h:2147 Form/form_us.xml.h:2185
 #: Form/form_us.xml.h:2223
 msgid "If Foreign Born, are you Naturalized"
-msgstr ""
+msgstr "Se for estrangeiro, é naturalizado"
 
 #: Form/form_us.xml.h:2111 Form/form_us.xml.h:2149 Form/form_us.xml.h:2187
 #: Form/form_us.xml.h:2225
 msgid "Years in S.D."
-msgstr ""
+msgstr "Anos em S.D."
 
 #: Form/form_us.xml.h:2131 Form/form_us.xml.h:2169 Form/form_us.xml.h:2207
 msgid "Division"
-msgstr ""
+msgstr "Divisão"
 
 #: Form/form_us.xml.h:2228
 msgid "Male under 21"
-msgstr ""
+msgstr "Homem -21"
 
 #: Form/form_us.xml.h:2229
 msgid "Male over 21"
-msgstr ""
+msgstr "Homem +21"
 
 #: Form/form_us.xml.h:2230
 msgid "Female under 21"
-msgstr ""
+msgstr "Mulher -21"
 
 #: Form/form_us.xml.h:2231
 msgid "Female over 21"
-msgstr ""
+msgstr "Mulher +21"
 
 #: Form/form_us.xml.h:2234 Form/form_us.xml.h:2246
 msgid "Town/City"
-msgstr ""
+msgstr "Vila/Cidade"
 
 #: Form/form_us.xml.h:2236 Form/form_us.xml.h:2248 Form/form_us.xml.h:2260
 msgid "Heads of Families"
-msgstr ""
+msgstr "Chefes de família"
 
 #: Form/form_us.xml.h:2237 Form/form_us.xml.h:2249 Form/form_us.xml.h:2261
 #: Form/form_us.xml.h:2273 Form/form_us.xml.h:2302
 msgid "White males"
-msgstr ""
+msgstr "Homens brancos"
 
 #: Form/form_us.xml.h:2238 Form/form_us.xml.h:2250 Form/form_us.xml.h:2262
 #: Form/form_us.xml.h:2274 Form/form_us.xml.h:2303
 msgid "White females"
-msgstr ""
+msgstr "Mulheres brancas"
 
 #: Form/form_us.xml.h:2239 Form/form_us.xml.h:2251 Form/form_us.xml.h:2263
 #: Form/form_us.xml.h:2275 Form/form_us.xml.h:2304
 msgid "Colored males"
-msgstr ""
+msgstr "Homens de cor"
 
 #: Form/form_us.xml.h:2240 Form/form_us.xml.h:2252 Form/form_us.xml.h:2264
 #: Form/form_us.xml.h:2276 Form/form_us.xml.h:2305
 msgid "Colored females"
-msgstr ""
+msgstr "Mulheres de cor"
 
 #: Form/form_us.xml.h:2241 Form/form_us.xml.h:2253 Form/form_us.xml.h:2265
 msgid "Deaf & Dumb"
@@ -13963,357 +13963,360 @@ msgstr "Surdos e mudos"
 
 #: Form/form_us.xml.h:2244 Form/form_us.xml.h:2256
 msgid "Foreign Birth"
-msgstr ""
+msgstr "Estrangeiro"
 
 #: Form/form_us.xml.h:2258
 msgid "Inhabitants of"
-msgstr ""
+msgstr "Habitantes de"
 
 #: Form/form_us.xml.h:2277 Form/form_us.xml.h:2306
 msgid "Nativity - United States"
-msgstr ""
+msgstr "Natividade - Estados Unidos"
 
 #: Form/form_us.xml.h:2278 Form/form_us.xml.h:2307
 msgid "Nativity - Germany"
-msgstr ""
+msgstr "Natividade - Alemanha"
 
 #: Form/form_us.xml.h:2279 Form/form_us.xml.h:2308
 msgid "Nativity - Great Britain"
-msgstr ""
+msgstr "Natividade - Grã-Bretanha"
 
 #: Form/form_us.xml.h:2280 Form/form_us.xml.h:2309
 msgid "Nativity - Ireland"
-msgstr ""
+msgstr "Natividade - Irlanda"
 
 #: Form/form_us.xml.h:2281 Form/form_us.xml.h:2310
 msgid "Nativity - France"
-msgstr ""
+msgstr "Natividade - França"
 
 #: Form/form_us.xml.h:2282 Form/form_us.xml.h:2311
 msgid "Nativity - British America"
-msgstr ""
+msgstr "Natividade - América Britânica"
 
 #: Form/form_us.xml.h:2283 Form/form_us.xml.h:2312
 msgid "Nativity - Scandinavian"
-msgstr ""
+msgstr "Natividade - Escandinávia"
 
 #: Form/form_us.xml.h:2284 Form/form_us.xml.h:2313
 msgid "Nativity - Holland"
-msgstr ""
+msgstr "Natividade - Holanda"
 
 #: Form/form_us.xml.h:2285 Form/form_us.xml.h:2314
 msgid "Nativity - All other countries"
-msgstr ""
+msgstr "Natividade - Todos os outros países"
 
 #: Form/form_us.xml.h:2287 Form/form_us.xml.h:2316
 msgid "Residing in the"
-msgstr ""
+msgstr "Residindo em"
 
 #: Form/form_us.xml.h:2292 Form/form_us.xml.h:2321
 msgid "Co."
-msgstr ""
+msgstr "Comp."
 
 #: Form/form_us.xml.h:2293 Form/form_us.xml.h:2322
 msgid "Reg't."
-msgstr ""
+msgstr "Reg.º"
 
 #: Form/form_us.xml.h:2294 Form/form_us.xml.h:2323
 msgid "State or Vessel"
-msgstr ""
+msgstr "Estado ou vaso"
 
 #: Form/form_us.xml.h:2337
 msgid "Parents place of birth"
-msgstr ""
+msgstr "Local de nascimento dos pais"
 
 #: Form/form_us.xml.h:2340
 msgid "Owned/Rented"
-msgstr ""
+msgstr "Possuída/Alugada"
 
 #: Form/form_us.xml.h:2341
 msgid "Free/Mortgaged"
-msgstr ""
+msgstr "Livre/Hipotecada"
 
 #: Form/form_us.xml.h:2342
 msgid "Farm/House"
-msgstr ""
+msgstr "Quinta/Casa"
 
 #: Form/form_us.xml.h:2343 Form/form_us.xml.h:2401 Form/form_us.xml.h:2427
 #: Form/form_us.xml.h:2459 Form/form_gb.xml.h:1 Form/form_gb.xml.h:19
 #: Form/form_gb.xml.h:38
 msgid "Certificate Number"
-msgstr ""
+msgstr "Número de certificado"
 
 #: Form/form_us.xml.h:2344 Form/form_us.xml.h:2402 Form/form_us.xml.h:2428
 #: Form/form_us.xml.h:2460 Form/form_gb.xml.h:2 Form/form_gb.xml.h:20
 #: Form/form_gb.xml.h:39
 msgid "Entry Number"
-msgstr ""
+msgstr "Número de entrada"
 
 #: Form/form_us.xml.h:2345 Form/form_us.xml.h:2429 Form/form_us.xml.h:2461
 #: Form/form_gb.xml.h:6 Form/form_gb.xml.h:43
 msgid "Date Registered"
-msgstr ""
+msgstr "Data de registo"
 
 #: Form/form_us.xml.h:2346 Form/form_us.xml.h:2430 Form/form_us.xml.h:2462
 #: Form/form_gb.xml.h:7 Form/form_gb.xml.h:44
 msgid "Registrar"
-msgstr ""
+msgstr "Registo"
 
 #: Form/form_us.xml.h:2349
 msgid "Twin, triplet or other"
-msgstr ""
+msgstr "Gémeo, triplo ou outro"
 
 #: Form/form_us.xml.h:2350
 msgid "No. in order of birth"
-msgstr ""
+msgstr "N.º na ordem de nascimento"
 
 #: Form/form_us.xml.h:2351
 msgid "Legitimate"
-msgstr ""
+msgstr "Legitimidade"
 
 #: Form/form_us.xml.h:2352 Form/form_us.xml.h:2527 Form/form_fr.xml.h:2
 #: Form/form_fr.xml.h:10 Form/form_fr.xml.h:18 Form/form_fr.xml.h:26
 #: Form/form_fr.xml.h:138 Form/form_fr.xml.h:210
 msgid "Date of birth"
-msgstr ""
+msgstr "Data de nascimento"
 
 #: Form/form_us.xml.h:2369 Form/form_us.xml.h:2390 Form/form_us.xml.h:2483
 #: Form/form_us.xml.h:2570
 msgid "Place of Record"
-msgstr ""
+msgstr "Local de registo"
 
 #: Form/form_us.xml.h:2370 Form/form_us.xml.h:2391 Form/form_us.xml.h:2484
 #: Form/form_us.xml.h:2571
 msgid "Book/Volume"
-msgstr ""
+msgstr "Livro/Volume"
 
 #: Form/form_us.xml.h:2377 Form/form_us.xml.h:2493
 msgid "Race/Color"
-msgstr ""
+msgstr "Raça/Cor"
 
 #: Form/form_us.xml.h:2380
 msgid ""
 "STOP! If you want this record to be attached to the Parents move to Father."
-msgstr ""
+msgstr "PARE! Se quiser que este registo seja anexado aos Pais, vá para Pai."
 
 #: Form/form_us.xml.h:2381
 msgid "Mother (Maiden Name)"
-msgstr ""
+msgstr "Mãe (nome de solteira)"
 
 #: Form/form_us.xml.h:2382
 msgid "Residence of Parents"
-msgstr ""
+msgstr "Residência dos pais"
 
 #: Form/form_us.xml.h:2383
 msgid "By Whom Reported"
-msgstr ""
+msgstr "Por quem relatada"
 
 #: Form/form_us.xml.h:2384 Form/form_us.xml.h:2501
 msgid "Date Recorded"
-msgstr ""
+msgstr "Data de registo"
 
 #: Form/form_us.xml.h:2393
 msgid "License No."
-msgstr ""
+msgstr "Licença n.º"
 
 #: Form/form_us.xml.h:2395
 msgid "Date of Marriage"
-msgstr ""
+msgstr "Data de casamento"
 
 #: Form/form_us.xml.h:2396
 msgid "Married by"
-msgstr ""
+msgstr "Casados por"
 
 #: Form/form_us.xml.h:2398
 msgid "Place of Marriage"
-msgstr ""
+msgstr "Lugar de casamento"
 
 #: Form/form_us.xml.h:2400
 msgid "Consent given by"
-msgstr ""
+msgstr "Consentimento dado por"
 
 #: Form/form_us.xml.h:2403
 msgid "Bond/Licence"
-msgstr ""
+msgstr "Ligação/Licença"
 
 #: Form/form_us.xml.h:2432 Form/form_us.xml.h:2495
 msgid "Place of Death"
-msgstr ""
+msgstr "Local de óbito"
 
 #: Form/form_us.xml.h:2434
 msgid "Length of Residence"
-msgstr ""
+msgstr "Tamanho da residência"
 
 #: Form/form_us.xml.h:2435
 msgid "Served in U.S. Military"
-msgstr ""
+msgstr "Serviço militar nos EUA"
 
 #: Form/form_us.xml.h:2439 Form/form_us.xml.h:2479 Form/form_pl.xml.h:11
 #: Form/form_pl.xml.h:39
 msgid "Spouse's Name"
-msgstr ""
+msgstr "Nome do cônjuge"
 
 #: Form/form_us.xml.h:2440
 msgid "Birth date of deceased"
-msgstr ""
+msgstr "Data de nascimento do falecido"
 
 #: Form/form_us.xml.h:2443
 msgid "Industry or Business"
-msgstr ""
+msgstr "Indústria ou negócio"
 
 #: Form/form_us.xml.h:2444
 msgid "Name of employer"
-msgstr ""
+msgstr "Nome do empregador"
 
 #: Form/form_us.xml.h:2445
 msgid "Date last worked"
-msgstr ""
+msgstr "Data do último emprego"
 
 #: Form/form_us.xml.h:2446
 msgid "Years in this occupation"
-msgstr ""
+msgstr "Anos nesta profissão"
 
 #: Form/form_us.xml.h:2447
 msgid "Education Level"
-msgstr ""
+msgstr "Nível de escolaridade"
 
 #: Form/form_us.xml.h:2453
 msgid "Social Security No."
-msgstr ""
+msgstr "N.º de segurança social"
 
 #: Form/form_us.xml.h:2455 Form/form_us.xml.h:2494
 msgid "Date of Death"
-msgstr ""
+msgstr "Data de óbito"
 
 #: Form/form_us.xml.h:2457
 msgid "Place of Burial"
-msgstr ""
+msgstr "Local de inumação"
 
 #: Form/form_us.xml.h:2458
 msgid "Date of Burial"
-msgstr ""
+msgstr "Data de inumação"
 
 #: Form/form_us.xml.h:2478
 msgid "Residence Place"
-msgstr ""
+msgstr "Local de residência"
 
 #: Form/form_us.xml.h:2480
 msgid "Burial Date"
-msgstr ""
+msgstr "Data de inumação"
 
 #: Form/form_us.xml.h:2481
 msgid "Burial Place"
-msgstr ""
+msgstr "Local de inumação"
 
 #: Form/form_us.xml.h:2503
 msgid "Congressional District"
-msgstr ""
+msgstr "Distrito Congressional"
 
 #: Form/form_us.xml.h:2504
 msgid "in the Counties of"
-msgstr ""
+msgstr "nos condados de"
 
 #: Form/form_us.xml.h:2506
 msgid "in the month of"
-msgstr ""
+msgstr "no mês de"
 
 #: Form/form_us.xml.h:2510
 msgid "Age 1 July 1863"
-msgstr ""
+msgstr "Idade 1 de Julho de 1863"
 
 #: Form/form_us.xml.h:2511
 msgid "White or Colored"
-msgstr ""
+msgstr "Branco ou de cor"
 
 #: Form/form_us.xml.h:2514
 msgid "Former Military Service"
-msgstr ""
+msgstr "Serviço militar antigo"
 
 #: Form/form_us.xml.h:2516
 msgid "Station Headquarters"
-msgstr ""
+msgstr "Sede da estação"
 
 #: Form/form_us.xml.h:2517
 msgid "Congr. Dist. of"
-msgstr ""
+msgstr "Dist. Cong. de"
 
 #: Form/form_us.xml.h:2519
 msgid "Card (A, B, or C)"
-msgstr ""
+msgstr "Cartão (A, B ou C)"
 
 #: Form/form_us.xml.h:2521
 msgid "Serial No."
-msgstr ""
+msgstr "N.º de série"
 
 #: Form/form_us.xml.h:2522
 msgid "Registration No."
-msgstr ""
+msgstr "N.º de registo"
 
 #: Form/form_us.xml.h:2523
 msgid "Order No."
-msgstr ""
+msgstr "N.º de ordem"
 
 #: Form/form_us.xml.h:2525
 msgid "Age in yrs."
-msgstr ""
+msgstr "Idade em anos"
 
 #: Form/form_us.xml.h:2526
 msgid "Home Address"
-msgstr ""
+msgstr "Morada de casa"
 
 #: Form/form_us.xml.h:2529
 msgid "Citizenship"
-msgstr ""
+msgstr "Cidadania"
 
 #: Form/form_us.xml.h:2530
 msgid "Natural-born, Naturalized Citizen, Alien, Noncitizen or citizen Indian"
 msgstr ""
+"Natural, cidadão naturalizado, estrangeiro, não-cidadão ou cidadão índio"
 
 #: Form/form_us.xml.h:2531
 msgid "If not a citizen, of what nation are you a citizen or subject?"
-msgstr ""
+msgstr "Se não for cidadão, de que nação é cidadão ou súbdito?"
 
 #: Form/form_us.xml.h:2533 Form/form_us.xml.h:2559
 msgid "Employer's Name & address"
-msgstr ""
+msgstr "Nome e endereço do empregador"
 
 #: Form/form_us.xml.h:2534
 msgid "Nearest Relative"
-msgstr ""
+msgstr "Parente mais próximo"
 
 #: Form/form_us.xml.h:2535
 msgid "Dependants & Address"
-msgstr ""
+msgstr "Dependentes e endereço"
 
 #: Form/form_us.xml.h:2536
 msgid ""
 "Have you a father, mother, wife, child under 12, or a sister or brother "
 "under 12, solely dependent on your support (specify which)?"
 msgstr ""
+"Tem pai, mãe, mulher, filho -12 anos, irmão -12 anos, exclusivamente "
+"dependentes do seu sustento (especificar quais)?"
 
 #: Form/form_us.xml.h:2538
 msgid "What military service have you had? (Branch, Years, Nation or State)"
-msgstr ""
+msgstr "Que serviço militar prestou? (ramo, anos, nação ou estado)"
 
 #: Form/form_us.xml.h:2539
 msgid "Do you claim exemption from draft (specify grounds)"
-msgstr ""
+msgstr "Requer isenção de serviço (especificar os motivos)"
 
 #: Form/form_us.xml.h:2540
 msgid "Race "
-msgstr ""
+msgstr "Raça "
 
 #: Form/form_us.xml.h:2542
 msgid "Build / Weight"
-msgstr ""
+msgstr "Constituição/Peso"
 
 #: Form/form_us.xml.h:2544
 msgid "Hair Color"
-msgstr ""
+msgstr "Cor do cabelo"
 
 #: Form/form_us.xml.h:2545
 msgid "Bald"
-msgstr ""
+msgstr "Careca"
 
 #: Form/form_us.xml.h:2546 Form/form_gb.xml.h:83 Form/form_gb.xml.h:101
 #: Form/form_gb.xml.h:122 Form/form_gb.xml.h:143 Form/form_gb.xml.h:169
@@ -14321,31 +14324,31 @@ msgstr ""
 #: Form/form_gb.xml.h:325 Form/form_gb.xml.h:361 Form/form_gb.xml.h:592
 #: Form/form_gb.xml.h:624 Form/form_fr.xml.h:81 Form/form_fr.xml.h:219
 msgid "Disability"
-msgstr ""
+msgstr "Deficiência"
 
 #: Form/form_us.xml.h:2547 Form/form_us.xml.h:2569
 msgid "Place of Registration"
-msgstr ""
+msgstr "Local de registo"
 
 #: Form/form_us.xml.h:2548 Form/form_us.xml.h:2568
 msgid "Date of Registration"
-msgstr ""
+msgstr "Data de registo"
 
 #: Form/form_us.xml.h:2549
 msgid "Serial Number"
-msgstr ""
+msgstr "Número de série"
 
 #: Form/form_us.xml.h:2550
 msgid "Order Number"
-msgstr ""
+msgstr "N.º de ordem"
 
 #: Form/form_us.xml.h:2552
 msgid "Place of Residence"
-msgstr ""
+msgstr "Local de residência"
 
 #: Form/form_us.xml.h:2553
 msgid "Mailing Address"
-msgstr ""
+msgstr "Endereço de correio"
 
 #: Form/form_us.xml.h:2554
 msgid "Telephone"
